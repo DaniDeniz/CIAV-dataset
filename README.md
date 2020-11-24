@@ -21,6 +21,8 @@ To download and create the described CIAV dataset you need to clone this reposit
 
 `cd CIAV-dataset`
 
+`pip install -U wget requests`
+
 Start downloading the dataset running:
 `python main.py --root_dir "/hdd/CIAV-dataset/" --tmp_dir "/hdd/tmp/"`
 
