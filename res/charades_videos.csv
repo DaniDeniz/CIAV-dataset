@@ -1,0 +1,1518 @@
+,split,class_name,video_name,dataset,start_time,end_time
+339,validation,Lying on bed or sofa,P4AEF_0.00.mp4,Charades,0.00,29.42
+340,validation,Lying on bed or sofa,8370R_0.00.mp4,Charades,0.00,23.004
+341,validation,Lying on bed or sofa,PWJ3J_0.00.mp4,Charades,0.00,14.002
+342,validation,Lying on bed or sofa,SSP8C_0.00.mp4,Charades,0.00,12.005
+343,validation,Lying on bed or sofa,5AE54_8.40.mp4,Charades,8.40,9.01
+344,validation,Lying on bed or sofa,0M6IY_13.80.mp4,Charades,13.80,12.005
+345,validation,Lying on bed or sofa,P73UC_0.00.mp4,Charades,0.00,5.016
+346,validation,Lying on bed or sofa,N7130_12.70.mp4,Charades,12.70,18.948
+347,validation,Lying on bed or sofa,OZ5SV_0.00.mp4,Charades,0.00,5.016
+348,validation,Lying on bed or sofa,MSN1B_0.00.mp4,Charades,0.00,9.01
+349,validation,Lying on bed or sofa,8LPZ0_30.30.mp4,Charades,30.30,7.6
+350,validation,Lying on bed or sofa,LLOGB_13.70.mp4,Charades,13.70,17.32
+351,validation,Lying on bed or sofa,XDT45_0.00.mp4,Charades,0.00,10.008
+352,validation,Lying on bed or sofa,B7DNX_0.00.mp4,Charades,0.00,7.013
+353,validation,Lying on bed or sofa,417RA_0.00.mp4,Charades,0.00,11.007
+354,validation,Lying on bed or sofa,I20II_0.00.mp4,Charades,0.00,5.96
+355,validation,Lying on bed or sofa,GQCUX_0.00.mp4,Charades,0.00,20.011
+356,validation,Lying on bed or sofa,SQUX3_0.00.mp4,Charades,0.00,22.013
+357,validation,Lying on bed or sofa,XMF8Y_1.20.mp4,Charades,1.20,26.84
+358,validation,Lying on bed or sofa,5GEJS_0.00.mp4,Charades,0.00,13.004
+359,validation,Lying on bed or sofa,IACBH_10.90.mp4,Charades,10.90,24.451
+360,validation,Lying on bed or sofa,V3RAX_0.00.mp4,Charades,0.00,15.001
+361,validation,Lying on bed or sofa,V6M35_0.00.mp4,Charades,0.00,14.002
+362,validation,Lying on bed or sofa,58YA5_0.00.mp4,Charades,0.00,11.007
+363,validation,Lying on bed or sofa,8ZO48_0.00.mp4,Charades,0.00,17.021
+364,validation,Lying on bed or sofa,Q9DW7_5.00.mp4,Charades,5.00,21.0
+365,validation,Lying on bed or sofa,3DO95_0.00.mp4,Charades,0.00,16.022
+366,validation,Lying on bed or sofa,BZ171_0.00.mp4,Charades,0.00,11.007
+367,validation,Lying on bed or sofa,5VUQE_0.00.mp4,Charades,0.00,31.0
+368,validation,Lying on bed or sofa,D1O6N_18.00.mp4,Charades,18.00,8.0
+369,validation,Lying on bed or sofa,CCTIO_5.30.mp4,Charades,5.30,14.04
+370,validation,Lying on bed or sofa,BOOKV_27.30.mp4,Charades,27.30,4.44
+371,validation,Lying on bed or sofa,2URXS_0.00.mp4,Charades,0.00,28.004
+372,validation,Lying on bed or sofa,CBXI2_0.00.mp4,Charades,0.00,30.12
+373,validation,Lying on bed or sofa,OFPAE_0.00.mp4,Charades,0.00,33.76
+374,validation,Lying on bed or sofa,ZFZEN_0.00.mp4,Charades,0.00,4.018
+375,validation,Lying on bed or sofa,6KI0S_0.00.mp4,Charades,0.00,3.019
+376,validation,Lying on bed or sofa,RANB1_18.30.mp4,Charades,18.30,14.76
+377,validation,Lying on bed or sofa,CNVZX_0.00.mp4,Charades,0.00,12.005
+835,validation,eat,X2Q00_1.40.mp4,Charades,1.40,9.0
+839,validation,eat,8TIC7_6.20.mp4,Charades,6.20,10.009
+843,validation,eat,A42FN_5.90.mp4,Charades,5.90,13.0
+845,validation,eat,VCV6A_16.90.mp4,Charades,16.90,6.0
+846,validation,eat,P4MBS_1.60.mp4,Charades,1.60,6.016
+847,validation,eat,B3RHF_15.20.mp4,Charades,15.20,6.014
+853,validation,eat,KJWAH_0.60.mp4,Charades,0.60,10.008
+855,validation,eat,GKSL2_6.10.mp4,Charades,6.10,8.0
+856,validation,eat,7JTEK_0.00.mp4,Charades,0.00,35.4
+857,validation,eat,SQYTO_0.00.mp4,Charades,0.00,26.007
+859,validation,eat,IJ587_8.20.mp4,Charades,8.20,10.008
+861,validation,eat,MV0TX_9.30.mp4,Charades,9.30,13.004
+863,validation,eat,TKFY2_9.80.mp4,Charades,9.80,9.01
+866,validation,eat,V9DQI_0.00.mp4,Charades,0.00,14.002
+868,validation,eat,55MRE_0.00.mp4,Charades,0.00,5.016
+869,validation,eat,N0DXI_12.70.mp4,Charades,12.70,13.64
+870,validation,eat,4KZHT_1.20.mp4,Charades,1.20,29.44
+871,validation,eat,CJ58B_23.10.mp4,Charades,23.10,7.6
+872,validation,eat,UWV5O_0.00.mp4,Charades,0.00,31.84
+873,validation,eat,5LAQN_5.20.mp4,Charades,5.20,20.4
+877,validation,eat,0I0FX_25.00.mp4,Charades,25.00,4.88
+878,validation,eat,EWES1_24.50.mp4,Charades,24.50,7.84
+881,validation,eat,2JTRG_0.00.mp4,Charades,0.00,31.88
+882,validation,eat,1X765_0.00.mp4,Charades,0.00,8.011
+884,validation,eat,VVCK0_0.00.mp4,Charades,0.00,32.84
+887,validation,eat,Z97SD_27.40.mp4,Charades,27.40,4.04
+888,validation,eat,QYSER_0.50.mp4,Charades,0.50,14.002
+890,validation,eat,TVBLW_11.00.mp4,Charades,11.00,8.011
+891,validation,eat,M1P59_0.00.mp4,Charades,0.00,17.021
+892,validation,eat,TIS3Z_2.10.mp4,Charades,2.10,31.0
+893,validation,eat,Z1EEF_0.00.mp4,Charades,0.00,9.01
+894,validation,eat,HEZBG_9.10.mp4,Charades,9.10,8.011
+896,validation,eat,Q4932_5.70.mp4,Charades,5.70,26.36
+897,validation,eat,8NS1G_24.70.mp4,Charades,24.70,7.013
+898,validation,eat,BB8Q0_12.90.mp4,Charades,12.90,14.002
+899,validation,eat,HCM5Y_0.00.mp4,Charades,0.00,8.011
+900,validation,eat,FE6RN_10.40.mp4,Charades,10.40,19.877
+901,validation,eat,SRHJV_24.00.mp4,Charades,24.00,8.36
+904,validation,eat,PSPMA_24.90.mp4,Charades,24.90,7.291
+907,validation,eat,HRR0X_21.50.mp4,Charades,21.50,4.922
+908,validation,eat,JQKR5_26.40.mp4,Charades,26.40,16.0
+909,validation,eat,KX8VW_0.00.mp4,Charades,0.00,6.014
+910,validation,eat,1ZBUS_10.30.mp4,Charades,10.30,11.12
+911,validation,eat,DVTAR_10.90.mp4,Charades,10.90,8.011
+913,validation,eat,CM9GX_0.00.mp4,Charades,0.00,29.002
+914,validation,eat,KUBPN_2.30.mp4,Charades,2.30,8.0
+917,validation,eat,YUCU2_0.00.mp4,Charades,0.00,16.022
+918,validation,eat,WFD5Z_12.30.mp4,Charades,12.30,16.0
+920,validation,eat,GEAB1_14.90.mp4,Charades,14.90,17.021
+921,validation,eat,TKWJB_22.10.mp4,Charades,22.10,10.008
+924,validation,eat,IVXKL_0.00.mp4,Charades,0.00,28.68
+925,validation,eat,H1XBH_8.30.mp4,Charades,8.30,7.019
+926,validation,eat,ZAO65_7.90.mp4,Charades,7.90,7.0
+928,validation,eat,5GITI_2.50.mp4,Charades,2.50,30.421
+929,validation,eat,GT53K_8.60.mp4,Charades,8.60,18.84
+930,validation,eat,W9XWS_1.20.mp4,Charades,1.20,33.0
+931,validation,eat,8JR94_24.60.mp4,Charades,24.60,8.406
+932,validation,eat,UL7YC_2.70.mp4,Charades,2.70,28.52
+937,validation,eat,6KUUU_20.80.mp4,Charades,20.80,11.48
+938,validation,eat,57J92_29.80.mp4,Charades,29.80,7.013
+939,validation,eat,JJGEU_4.20.mp4,Charades,4.20,14.002
+940,validation,eat,0BZAD_26.20.mp4,Charades,26.20,5.08
+941,validation,eat,TDNV3_9.60.mp4,Charades,9.60,8.011
+942,validation,eat,XEEDH_0.00.mp4,Charades,0.00,21.015
+943,validation,eat,QPX3S_6.50.mp4,Charades,6.50,6.6
+945,validation,eat,ZJ54N_2.90.mp4,Charades,2.90,18.994
+946,validation,eat,I329H_6.50.mp4,Charades,6.50,31.08
+948,validation,eat,BM9H4_2.60.mp4,Charades,2.60,17.92
+953,validation,eat,8G9A9_10.10.mp4,Charades,10.10,11.007
+954,validation,eat,ZCH7N_2.20.mp4,Charades,2.20,14.002
+959,validation,eat,NLXQE_0.00.mp4,Charades,0.00,30.882
+960,validation,eat,TYZ05_0.00.mp4,Charades,0.00,14.002
+965,validation,eat,E9FY2_0.00.mp4,Charades,0.00,6.014
+968,validation,eat,MNNDB_2.90.mp4,Charades,2.90,17.0
+969,validation,eat,RS4ZC_0.00.mp4,Charades,0.00,4.018
+973,validation,eat,AEHBG_27.70.mp4,Charades,27.70,11.007
+974,validation,eat,94KP4_0.00.mp4,Charades,0.00,13.004
+976,validation,eat,GUYVC_0.00.mp4,Charades,0.00,21.618
+977,validation,eat,8J5S4_1.50.mp4,Charades,1.50,15.001
+979,validation,eat,BRLNM_3.90.mp4,Charades,3.90,18.006
+981,validation,eat,JJZ1X_0.00.mp4,Charades,0.00,33.16
+986,validation,eat,EAGYP_15.40.mp4,Charades,15.40,15.0
+990,validation,eat,X7GVM_23.10.mp4,Charades,23.10,8.615
+992,validation,eat,D0E8H_20.70.mp4,Charades,20.70,34.0
+993,validation,eat,DWHPO_26.90.mp4,Charades,26.90,4.52
+994,validation,eat,9O0HH_18.20.mp4,Charades,18.20,8.0
+997,validation,eat,IST7I_18.40.mp4,Charades,18.40,15.001
+998,validation,eat,A4SR3_0.00.mp4,Charades,0.00,17.021
+999,validation,eat,LURLC_20.60.mp4,Charades,20.60,8.0
+1363,validation,Lying on the floor,KLO0K_17.90.mp4,Charades,17.90,14.88
+1365,validation,Lying on the floor,MO0SA_8.20.mp4,Charades,8.20,21.12
+1381,validation,Lying on the floor,YT3VH_20.00.mp4,Charades,20.00,9.474
+1386,validation,Lying on the floor,85ABO_2.10.mp4,Charades,2.10,23.56
+1391,validation,Lying on the floor,F24GU_10.80.mp4,Charades,10.80,9.01
+1393,validation,Lying on the floor,WA7WD_0.00.mp4,Charades,0.00,21.015
+1407,validation,Lying on the floor,HGSB7_0.00.mp4,Charades,0.00,7.013
+1409,validation,Lying on the floor,2GQDN_20.30.mp4,Charades,20.30,10.4
+1421,validation,Lying on the floor,RIV6I_15.20.mp4,Charades,15.20,14.72
+1434,validation,Lying on the floor,4X2JC_0.00.mp4,Charades,0.00,26.007
+1441,validation,Lying on the floor,8YNSB_0.00.mp4,Charades,0.00,12.005
+1445,validation,Lying on the floor,X1EZQ_0.00.mp4,Charades,0.00,17.021
+1475,validation,Lying on the floor,CSLEP_0.00.mp4,Charades,0.00,16.022
+1485,validation,Lying on the floor,KSIYE_23.30.mp4,Charades,23.30,3.76
+1496,validation,Lying on the floor,PW6CO_0.00.mp4,Charades,0.00,22.013
+1499,validation,Lying on the floor,2JWHI_10.40.mp4,Charades,10.40,20.28
+1563,validation,cook,BI4PK_3.40.mp4,Charades,3.40,12.0
+1567,validation,cook,IC89C_2.40.mp4,Charades,2.40,14.002
+1569,validation,cook,AICB5_2.10.mp4,Charades,2.10,30.488
+1575,validation,cook,RRHEV_0.00.mp4,Charades,0.00,28.004
+1581,validation,cook,5QW1X_0.00.mp4,Charades,0.00,32.76
+1584,validation,cook,JMCRT_0.00.mp4,Charades,0.00,8.0
+1587,validation,cook,7JTEK_0.00.mp4,Charades,0.00,35.4
+1588,validation,cook,3MLVF_0.00.mp4,Charades,0.00,15.001
+1591,validation,cook,Z4Y02_13.70.mp4,Charades,13.70,22.013
+1602,validation,cook,Q4SH4_0.00.mp4,Charades,0.00,6.014
+1603,validation,cook,88CD5_0.00.mp4,Charades,0.00,22.408
+1608,validation,cook,0LDP7_0.00.mp4,Charades,0.00,27.006
+1636,validation,cook,K1M15_10.20.mp4,Charades,10.20,5.0
+1638,validation,cook,YSBN0_0.00.mp4,Charades,0.00,12.005
+1642,validation,cook,G8SWD_0.00.mp4,Charades,0.00,19.018
+1644,validation,cook,AJLGU_0.00.mp4,Charades,0.00,29.159
+1647,validation,cook,OR3G4_5.80.mp4,Charades,5.80,18.24
+1653,validation,cook,J0VXY_11.10.mp4,Charades,11.10,21.015
+1669,validation,cook,BPWJI_0.00.mp4,Charades,0.00,17.021
+1676,validation,cook,99XHN_0.00.mp4,Charades,0.00,27.4
+1684,validation,cook,HEZBG_22.20.mp4,Charades,22.20,12.005
+1688,validation,cook,CJP4R_0.00.mp4,Charades,0.00,10.008
+1695,validation,cook,9JIOI_7.10.mp4,Charades,7.10,8.0
+1702,validation,cook,RRFE7_0.00.mp4,Charades,0.00,13.003
+1704,validation,cook,P4DL9_9.20.mp4,Charades,9.20,10.008
+1705,validation,cook,OXKR5_0.00.mp4,Charades,0.00,25.659
+1708,validation,cook,AAGZ2_11.00.mp4,Charades,11.00,23.011
+1726,validation,cook,8MY8P_7.80.mp4,Charades,7.80,11.007
+1732,validation,cook,4JH6O_2.50.mp4,Charades,2.50,29.28
+1737,validation,cook,I005F_0.00.mp4,Charades,0.00,10.008
+1738,validation,cook,CP3Q6_16.40.mp4,Charades,16.40,12.28
+1740,validation,cook,D07V2_19.70.mp4,Charades,19.70,7.8
+1743,validation,cook,M5C5L_14.70.mp4,Charades,14.70,18.019
+5208,train,Lying on bed or sofa,FGBXJ_0.00.mp4,Charades,0.00,5.016
+5209,train,Lying on bed or sofa,E51QT_0.00.mp4,Charades,0.00,31.72
+5210,train,Lying on bed or sofa,V2BCZ_0.00.mp4,Charades,0.00,10.008
+5211,train,Lying on bed or sofa,9JZCC_18.80.mp4,Charades,18.80,11.6
+5212,train,Lying on bed or sofa,CK3H7_35.00.mp4,Charades,35.00,3.28
+5213,train,Lying on bed or sofa,8BA61_2.10.mp4,Charades,2.10,19.993
+5214,train,Lying on bed or sofa,QYSER_0.00.mp4,Charades,0.00,17.021
+5215,train,Lying on bed or sofa,5A3FT_21.20.mp4,Charades,21.20,6.2
+5216,train,Lying on bed or sofa,8370R_0.00.mp4,Charades,0.00,19.015
+5217,train,Lying on bed or sofa,JOWAU_0.00.mp4,Charades,0.00,21.015
+5218,train,Lying on bed or sofa,EHAS4_0.00.mp4,Charades,0.00,57.08
+5219,train,Lying on bed or sofa,BB25Z_0.00.mp4,Charades,0.00,11.007
+5220,train,Lying on bed or sofa,VQD0Z_2.40.mp4,Charades,2.40,6.28
+5221,train,Lying on bed or sofa,B55HG_3.00.mp4,Charades,3.00,27.377
+5222,train,Lying on bed or sofa,CLORP_0.00.mp4,Charades,0.00,7.013
+5223,train,Lying on bed or sofa,7POUA_0.00.mp4,Charades,0.00,31.091
+5224,train,Lying on bed or sofa,55AH5_15.10.mp4,Charades,15.10,7.013
+5225,train,Lying on bed or sofa,GD1LA_30.20.mp4,Charades,30.20,4.64
+5226,train,Lying on bed or sofa,RKGG5_12.60.mp4,Charades,12.60,8.44
+5227,train,Lying on bed or sofa,2ZFNL_0.00.mp4,Charades,0.00,19.64
+5228,train,Lying on bed or sofa,EYV38_0.00.mp4,Charades,0.00,24.102
+5229,train,Lying on bed or sofa,XW1LX_0.00.mp4,Charades,0.00,12.005
+5230,train,Lying on bed or sofa,GYB9U_0.00.mp4,Charades,0.00,31.28
+5231,train,Lying on bed or sofa,DKEB0_0.00.mp4,Charades,0.00,24.01
+5232,train,Lying on bed or sofa,0SE6A_0.00.mp4,Charades,0.00,22.013
+5233,train,Lying on bed or sofa,UCT5X_0.00.mp4,Charades,0.00,10.008
+5234,train,Lying on bed or sofa,FLCZA_5.10.mp4,Charades,5.10,5.72
+5235,train,Lying on bed or sofa,N4Q0O_0.00.mp4,Charades,0.00,11.007
+5236,train,Lying on bed or sofa,SM5WL_0.00.mp4,Charades,0.00,9.01
+5237,train,Lying on bed or sofa,PYE2T_7.70.mp4,Charades,7.70,24.915
+5238,train,Lying on bed or sofa,2ZG3U_0.00.mp4,Charades,0.00,13.004
+5239,train,Lying on bed or sofa,54VBR_0.00.mp4,Charades,0.00,11.007
+5240,train,Lying on bed or sofa,9777C_6.80.mp4,Charades,6.80,23.44
+5241,train,Lying on bed or sofa,N2GFQ_33.40.mp4,Charades,33.40,4.72
+5242,train,Lying on bed or sofa,9PXC0_0.00.mp4,Charades,0.00,9.01
+5243,train,Lying on bed or sofa,NGWRE_0.30.mp4,Charades,0.30,16.022
+5244,train,Lying on bed or sofa,RG1XI_0.00.mp4,Charades,0.00,10.008
+5245,train,Lying on bed or sofa,TKAFY_0.00.mp4,Charades,0.00,6.014
+5246,train,Lying on bed or sofa,2GF6R_0.00.mp4,Charades,0.00,3.019
+5247,train,Lying on bed or sofa,0H5VC_22.80.mp4,Charades,22.80,10.08
+5248,train,Lying on bed or sofa,W0RSP_0.00.mp4,Charades,0.00,13.979
+5249,train,Lying on bed or sofa,52CKM_0.00.mp4,Charades,0.00,12.005
+5250,train,Lying on bed or sofa,S673O_0.00.mp4,Charades,0.00,19.018
+5251,train,Lying on bed or sofa,MAPVV_29.70.mp4,Charades,29.70,2.76
+5252,train,Lying on bed or sofa,J5WOX_0.00.mp4,Charades,0.00,30.28
+5253,train,Lying on bed or sofa,PT0D1_0.00.mp4,Charades,0.00,5.016
+5254,train,Lying on bed or sofa,BRLNM_27.80.mp4,Charades,27.80,4.993
+5255,train,Lying on bed or sofa,SBHID_6.70.mp4,Charades,6.70,22.0
+5256,train,Lying on bed or sofa,IVP8Q_0.00.mp4,Charades,0.00,30.72
+5257,train,Lying on bed or sofa,SNECW_0.00.mp4,Charades,0.00,24.01
+5258,train,Lying on bed or sofa,5GK8W_0.00.mp4,Charades,0.00,7.013
+5259,train,Lying on bed or sofa,GHJCC_0.00.mp4,Charades,0.00,25.008
+5260,train,Lying on bed or sofa,WAD46_0.00.mp4,Charades,0.00,31.64
+5261,train,Lying on bed or sofa,45Z2A_0.00.mp4,Charades,0.00,4.018
+5262,train,Lying on bed or sofa,BR8B3_0.00.mp4,Charades,0.00,30.88
+5263,train,Lying on bed or sofa,FACX2_0.00.mp4,Charades,0.00,30.56
+5264,train,Lying on bed or sofa,PN7CX_0.00.mp4,Charades,0.00,17.021
+5265,train,Lying on bed or sofa,E5TW6_0.00.mp4,Charades,0.00,30.64
+5266,train,Lying on bed or sofa,C1LJS_14.80.mp4,Charades,14.80,17.48
+5267,train,Lying on bed or sofa,4UYGY_0.00.mp4,Charades,0.00,21.015
+5268,train,Lying on bed or sofa,92Q8F_0.00.mp4,Charades,0.00,8.011
+5269,train,Lying on bed or sofa,BIW43_0.00.mp4,Charades,0.00,6.52
+5270,train,Lying on bed or sofa,XDVAY_0.00.mp4,Charades,0.00,7.019
+5271,train,Lying on bed or sofa,K4XO7_0.00.mp4,Charades,0.00,10.008
+5272,train,Lying on bed or sofa,NVGDG_0.00.mp4,Charades,0.00,13.004
+5273,train,Lying on bed or sofa,CG5KY_0.00.mp4,Charades,0.00,23.011
+5274,train,Lying on bed or sofa,A52N5_9.50.mp4,Charades,9.50,5.0
+5275,train,Lying on bed or sofa,IJ01G_6.30.mp4,Charades,6.30,26.402
+5276,train,Lying on bed or sofa,FQ6OB_0.00.mp4,Charades,0.00,24.01
+5277,train,Lying on bed or sofa,5GK8W_0.002.mp4,Charades,0.002,9.01
+5278,train,Lying on bed or sofa,3ZKDY_0.00.mp4,Charades,0.00,18.019
+5279,train,Lying on bed or sofa,RRS54_0.00.mp4,Charades,0.00,30.12
+5280,train,Lying on bed or sofa,G5819_0.00.mp4,Charades,0.00,31.08
+5281,train,Lying on bed or sofa,KAFV7_26.50.mp4,Charades,26.50,4.08
+5282,train,Lying on bed or sofa,K2LY1_0.00.mp4,Charades,0.00,14.002
+5283,train,Lying on bed or sofa,T8B7B_0.00.mp4,Charades,0.00,29.4
+5284,train,Lying on bed or sofa,KI0YZ_0.00.mp4,Charades,0.00,34.18
+5285,train,Lying on bed or sofa,R3Z2O_0.00.mp4,Charades,0.00,30.48
+5286,train,Lying on bed or sofa,CI6H7_0.40.mp4,Charades,0.40,6.016
+5287,train,Lying on bed or sofa,QZ94G_0.00.mp4,Charades,0.00,27.051
+5288,train,Lying on bed or sofa,EGVGL_0.00.mp4,Charades,0.00,18.019
+5289,train,Lying on bed or sofa,6QDZI_0.00.mp4,Charades,0.00,6.017
+5290,train,Lying on bed or sofa,WN2N7_0.00.mp4,Charades,0.00,24.892
+5291,train,Lying on bed or sofa,6B328_0.00.mp4,Charades,0.00,18.019
+5292,train,Lying on bed or sofa,LOP4H_3.40.mp4,Charades,3.40,16.0
+5293,train,Lying on bed or sofa,3VMTS_0.00.mp4,Charades,0.00,12.011
+5294,train,Lying on bed or sofa,MLK57_0.00.mp4,Charades,0.00,18.019
+5295,train,Lying on bed or sofa,WQSYC_0.90.mp4,Charades,0.90,29.24
+5296,train,Lying on bed or sofa,KAFV7_26.80.mp4,Charades,26.80,4.08
+5297,train,Lying on bed or sofa,IOMVF_0.00.mp4,Charades,0.00,9.01
+5298,train,Lying on bed or sofa,XVNJC_0.60.mp4,Charades,0.60,46.022
+5299,train,Lying on bed or sofa,OXUKR_0.00.mp4,Charades,0.00,16.022
+5300,train,Lying on bed or sofa,67RSR_0.00.mp4,Charades,0.00,9.003
+5301,train,Lying on bed or sofa,Y8ON2_0.00.mp4,Charades,0.00,16.32
+5302,train,Lying on bed or sofa,B6HUA_0.00.mp4,Charades,0.00,31.12
+5303,train,Lying on bed or sofa,V6XXN_4.60.mp4,Charades,4.60,23.0
+5304,train,Lying on bed or sofa,T8A9E_0.00.mp4,Charades,0.00,30.999
+5305,train,Lying on bed or sofa,3CPVF_14.80.mp4,Charades,14.80,16.08
+5306,train,Lying on bed or sofa,8W31Y_0.00.mp4,Charades,0.00,30.68
+5307,train,Lying on bed or sofa,MQZKO_0.00.mp4,Charades,0.00,36.015
+5308,train,Lying on bed or sofa,LUU2S_0.00.mp4,Charades,0.00,30.32
+5309,train,Lying on bed or sofa,Y4X8J_0.00.mp4,Charades,0.00,25.008
+5310,train,Lying on bed or sofa,B7T3B_9.30.mp4,Charades,9.30,21.0
+5311,train,Lying on bed or sofa,V3DJ5_0.00.mp4,Charades,0.00,26.286
+5312,train,Lying on bed or sofa,GK7S7_0.00.mp4,Charades,0.00,5.016
+5313,train,Lying on bed or sofa,56XKK_26.30.mp4,Charades,26.30,12.283
+5314,train,Lying on bed or sofa,KHWI5_0.00.mp4,Charades,0.00,11.007
+5315,train,Lying on bed or sofa,8NGDR_0.00.mp4,Charades,0.00,20.016
+5316,train,Lying on bed or sofa,X7J7H_8.70.mp4,Charades,8.70,9.01
+5317,train,Lying on bed or sofa,A2Z46_0.00.mp4,Charades,0.00,22.013
+5318,train,Lying on bed or sofa,CLW8L_0.00.mp4,Charades,0.00,20.016
+5319,train,Lying on bed or sofa,NGWRE_0.00.mp4,Charades,0.00,6.014
+5320,train,Lying on bed or sofa,RHYAJ_0.00.mp4,Charades,0.00,29.08
+5321,train,Lying on bed or sofa,HDMN4_20.90.mp4,Charades,20.90,10.32
+5322,train,Lying on bed or sofa,OSCS2_0.00.mp4,Charades,0.00,13.004
+5323,train,Lying on bed or sofa,BYDSE_0.00.mp4,Charades,0.00,22.013
+5324,train,Lying on bed or sofa,P5JRJ_22.00.mp4,Charades,22.00,2.48
+5325,train,Lying on bed or sofa,9X208_0.00.mp4,Charades,0.00,24.01
+5326,train,Lying on bed or sofa,1FPW9_0.00.mp4,Charades,0.00,7.013
+5327,train,Lying on bed or sofa,PK2F0_17.20.mp4,Charades,17.20,7.24
+5328,train,Lying on bed or sofa,Q435I_0.00.mp4,Charades,0.00,30.162
+5329,train,Lying on bed or sofa,5VS8B_0.00.mp4,Charades,0.00,4.018
+5330,train,Lying on bed or sofa,RHCFX_0.00.mp4,Charades,0.00,33.43
+5331,train,Lying on bed or sofa,REH2U_0.00.mp4,Charades,0.00,36.015
+5332,train,Lying on bed or sofa,XXYWL_6.40.mp4,Charades,6.40,2.72
+5333,train,Lying on bed or sofa,14JPP_0.40.mp4,Charades,0.40,21.015
+5334,train,Lying on bed or sofa,V54TI_0.00.mp4,Charades,0.00,18.019
+5335,train,Lying on bed or sofa,F1FV0_0.00.mp4,Charades,0.00,30.232
+5336,train,Lying on bed or sofa,08KKF_0.00.mp4,Charades,0.00,7.019
+5337,train,Lying on bed or sofa,MB1MR_0.00.mp4,Charades,0.00,16.022
+5338,train,Lying on bed or sofa,DQ1TU_12.40.mp4,Charades,12.40,12.005
+5339,train,Lying on bed or sofa,81YUE_10.60.mp4,Charades,10.60,14.002
+5340,train,Lying on bed or sofa,DFG9M_0.00.mp4,Charades,0.00,12.012
+5341,train,Lying on bed or sofa,0UQU6_0.00.mp4,Charades,0.00,3.008
+5342,train,Lying on bed or sofa,29757_0.00.mp4,Charades,0.00,24.01
+5343,train,Lying on bed or sofa,FZJTT_0.00.mp4,Charades,0.00,32.021
+5344,train,Lying on bed or sofa,G9I7C_0.00.mp4,Charades,0.00,19.018
+5345,train,Lying on bed or sofa,107YZ_0.00.mp4,Charades,0.00,24.01
+5346,train,Lying on bed or sofa,8NDRG_0.00.mp4,Charades,0.00,8.011
+5347,train,Lying on bed or sofa,XYWWG_0.00.mp4,Charades,0.00,32.28
+5348,train,Lying on bed or sofa,7JZGN_7.40.mp4,Charades,7.40,23.777
+5349,train,Lying on bed or sofa,ZP4X6_0.00.mp4,Charades,0.00,21.015
+5350,train,Lying on bed or sofa,ME7RO_0.00.mp4,Charades,0.00,8.84
+5351,train,Lying on bed or sofa,OZIJ7_35.20.mp4,Charades,35.20,2.32
+5352,train,Lying on bed or sofa,W0Y4E_6.50.mp4,Charades,6.50,8.0
+5353,train,Lying on bed or sofa,TUTOD_21.40.mp4,Charades,21.40,11.308
+5354,train,Lying on bed or sofa,HKBKA_11.90.mp4,Charades,11.90,14.002
+5355,train,Lying on bed or sofa,VTAX3_0.00.mp4,Charades,0.00,16.3
+5356,train,Lying on bed or sofa,I6NJ6_0.00.mp4,Charades,0.00,10.02
+5357,train,Lying on bed or sofa,8QCBP_0.00.mp4,Charades,0.00,15.001
+5358,train,Lying on bed or sofa,8K46I_1.90.mp4,Charades,1.90,25.984
+5359,train,Lying on bed or sofa,YAPN7_15.40.mp4,Charades,15.40,8.011
+5360,train,Lying on bed or sofa,JQW5G_0.00.mp4,Charades,0.00,7.013
+5361,train,Lying on bed or sofa,CAW41_0.00.mp4,Charades,0.00,23.987
+5362,train,Lying on bed or sofa,XIVBU_0.00.mp4,Charades,0.00,30.12
+5363,train,Lying on bed or sofa,OM5R4_0.00.mp4,Charades,0.00,11.007
+5364,train,Lying on bed or sofa,ZRITA_0.00.mp4,Charades,0.00,15.001
+5365,train,Lying on bed or sofa,WXUZK_17.30.mp4,Charades,17.30,12.76
+5366,train,Lying on bed or sofa,GXZHG_12.60.mp4,Charades,12.60,4.737
+5367,train,Lying on bed or sofa,H5RDP_0.00.mp4,Charades,0.00,33.08
+5368,train,Lying on bed or sofa,7BX06_0.00.mp4,Charades,0.00,26.92
+5369,train,Lying on bed or sofa,DQTAY_0.00.mp4,Charades,0.00,27.8
+5370,train,Lying on bed or sofa,XZ9C0_0.00.mp4,Charades,0.00,11.008
+5371,train,Lying on bed or sofa,ZNH10_0.00.mp4,Charades,0.00,29.56
+5372,train,Lying on bed or sofa,TJHFA_4.90.mp4,Charades,4.90,27.005
+5373,train,Lying on bed or sofa,ZRRC8_0.00.mp4,Charades,0.00,5.016
+5374,train,Lying on bed or sofa,TF8NL_7.60.mp4,Charades,7.60,8.0
+5375,train,Lying on bed or sofa,R9NRA_23.90.mp4,Charades,23.90,7.803
+5376,train,Lying on bed or sofa,W2QG1_0.00.mp4,Charades,0.00,14.002
+5377,train,Lying on bed or sofa,GP49W_0.00.mp4,Charades,0.00,35.433
+5378,train,Lying on bed or sofa,8NW4J_0.00.mp4,Charades,0.00,4.018
+5379,train,Lying on bed or sofa,YO9NC_0.00.mp4,Charades,0.00,4.018
+5380,train,Lying on bed or sofa,H5TGJ_0.00.mp4,Charades,0.00,13.004
+5381,train,Lying on bed or sofa,UAIHK_0.00.mp4,Charades,0.00,7.019
+5382,train,Lying on bed or sofa,UXW88_0.00.mp4,Charades,0.00,13.004
+5383,train,Lying on bed or sofa,MI4SN_0.00.mp4,Charades,0.00,27.005
+5384,train,Lying on bed or sofa,MUE7H_0.00.mp4,Charades,0.00,9.01
+5385,train,Lying on bed or sofa,5OCXJ_0.00.mp4,Charades,0.00,15.001
+5386,train,Lying on bed or sofa,EC695_0.00.mp4,Charades,0.00,31.08
+5387,train,Lying on bed or sofa,CU9RE_0.00.mp4,Charades,0.00,30.32
+5388,train,Lying on bed or sofa,FZBK6_8.20.mp4,Charades,8.20,12.191
+5389,train,Lying on bed or sofa,V1JIC_16.10.mp4,Charades,16.10,11.04
+5390,train,Lying on bed or sofa,MZHDX_0.00.mp4,Charades,0.00,28.004
+5391,train,Lying on bed or sofa,EAPFO_0.10.mp4,Charades,0.10,32.74
+5392,train,Lying on bed or sofa,QRM8K_0.00.mp4,Charades,0.00,31.96
+5393,train,Lying on bed or sofa,H7Y0J_0.00.mp4,Charades,0.00,21.015
+5394,train,Lying on bed or sofa,MI76A_0.00.mp4,Charades,0.00,6.014
+5395,train,Lying on bed or sofa,MAPVV_4.20.mp4,Charades,4.20,14.002
+5396,train,Lying on bed or sofa,X3952_17.30.mp4,Charades,17.30,9.64
+5397,train,Lying on bed or sofa,BLB6G_0.00.mp4,Charades,0.00,8.011
+5398,train,Lying on bed or sofa,FXC28_4.60.mp4,Charades,4.60,9.003
+5399,train,Lying on bed or sofa,AZZ7V_0.00.mp4,Charades,0.00,12.005
+5400,train,Lying on bed or sofa,FPODN_25.00.mp4,Charades,25.00,9.68
+5401,train,Lying on bed or sofa,VT624_0.00.mp4,Charades,0.00,9.01
+5402,train,Lying on bed or sofa,UEXO4_0.00.mp4,Charades,0.00,25.2
+5403,train,Lying on bed or sofa,OVH9Y_0.00.mp4,Charades,0.00,20.016
+5404,train,Lying on bed or sofa,H31ZH_0.00.mp4,Charades,0.00,38.68
+5405,train,Lying on bed or sofa,SG8ZR_3.50.mp4,Charades,3.50,15.001
+5406,train,Lying on bed or sofa,KU656_0.00.mp4,Charades,0.00,7.013
+5407,train,Lying on bed or sofa,80E3X_0.00.mp4,Charades,0.00,7.013
+5408,train,Lying on bed or sofa,CSLEP_0.00.mp4,Charades,0.00,7.013
+5409,train,Lying on bed or sofa,MWAGL_0.00.mp4,Charades,0.00,7.013
+5410,train,Lying on bed or sofa,R0OI6_0.00.mp4,Charades,0.00,17.021
+5411,train,Lying on bed or sofa,KI34A_0.00.mp4,Charades,0.00,24.28
+5412,train,Lying on bed or sofa,1J3I0_5.40.mp4,Charades,5.40,18.8
+5413,train,Lying on bed or sofa,HIOY0_0.00.mp4,Charades,0.00,15.001
+5414,train,Lying on bed or sofa,MTUR3_11.80.mp4,Charades,11.80,20.016
+5415,train,Lying on bed or sofa,ZZDBH_2.00.mp4,Charades,2.00,27.794
+5416,train,Lying on bed or sofa,YFBA1_1.70.mp4,Charades,1.70,22.08
+5417,train,Lying on bed or sofa,UPUPM_0.00.mp4,Charades,0.00,25.008
+5418,train,Lying on bed or sofa,EABOI_0.00.mp4,Charades,0.00,32.902
+5419,train,Lying on bed or sofa,XZPAS_0.00.mp4,Charades,0.00,9.01
+5420,train,Lying on bed or sofa,IHVOF_0.00.mp4,Charades,0.00,33.815
+5421,train,Lying on bed or sofa,0LNLR_9.90.mp4,Charades,9.90,14.016
+5422,train,Lying on bed or sofa,KKGLB_0.00.mp4,Charades,0.00,13.004
+5423,train,Lying on bed or sofa,1X7OW_0.00.mp4,Charades,0.00,14.908
+5424,train,Lying on bed or sofa,R1RDT_5.00.mp4,Charades,5.00,8.0
+5425,train,Lying on bed or sofa,TODWV_0.00.mp4,Charades,0.00,16.022
+5426,train,Lying on bed or sofa,GIZ95_0.00.mp4,Charades,0.00,30.743
+5427,train,Lying on bed or sofa,HMLJX_0.00.mp4,Charades,0.00,13.004
+5428,train,Lying on bed or sofa,D4LRR_19.20.mp4,Charades,19.20,11.48
+5429,train,Lying on bed or sofa,IM2WK_10.30.mp4,Charades,10.30,20.4
+5430,train,Lying on bed or sofa,D2T7Z_5.10.mp4,Charades,5.10,12.0
+5431,train,Lying on bed or sofa,RRZU3_2.70.mp4,Charades,2.70,29.04
+5432,train,Lying on bed or sofa,V9XR6_13.70.mp4,Charades,13.70,7.013
+5433,train,Lying on bed or sofa,O8N4M_0.00.mp4,Charades,0.00,20.016
+5434,train,Lying on bed or sofa,AY5CS_0.00.mp4,Charades,0.00,32.48
+5435,train,Lying on bed or sofa,DEJ35_0.00.mp4,Charades,0.00,7.013
+5436,train,Lying on bed or sofa,P2UBC_0.00.mp4,Charades,0.00,10.008
+5437,train,Lying on bed or sofa,SFIWO_0.00.mp4,Charades,0.00,29.56
+5438,train,Lying on bed or sofa,DINAV_12.20.mp4,Charades,12.20,17.36
+5439,train,Lying on bed or sofa,DJMZC_0.00.mp4,Charades,0.00,22.338
+5440,train,Lying on bed or sofa,SFPJ7_0.00.mp4,Charades,0.00,13.004
+5441,train,Lying on bed or sofa,8XC4G_0.00.mp4,Charades,0.00,12.005
+5442,train,Lying on bed or sofa,B3SF6_4.40.mp4,Charades,4.40,14.002
+5443,train,Lying on bed or sofa,AB06W_23.10.mp4,Charades,23.10,6.32
+5444,train,Lying on bed or sofa,VSAA7_31.00.mp4,Charades,31.00,5.28
+5445,train,Lying on bed or sofa,1BVUA_0.00.mp4,Charades,0.00,30.08
+5446,train,Lying on bed or sofa,SVQL5_0.00.mp4,Charades,0.00,23.848
+5447,train,Lying on bed or sofa,RRBM5_0.00.mp4,Charades,0.00,7.013
+5448,train,Lying on bed or sofa,8R5DD_0.00.mp4,Charades,0.00,25.2
+5449,train,Lying on bed or sofa,ISTQI_17.10.mp4,Charades,17.10,13.68
+5450,train,Lying on bed or sofa,1MU5L_10.70.mp4,Charades,10.70,17.0
+5451,train,Lying on bed or sofa,2O5NR_0.00.mp4,Charades,0.00,18.089
+5452,train,Lying on bed or sofa,MKDCU_0.00.mp4,Charades,0.00,32.021
+5453,train,Lying on bed or sofa,DBN7R_25.10.mp4,Charades,25.10,5.782
+5454,train,Lying on bed or sofa,KI6RS_0.00.mp4,Charades,0.00,24.01
+5455,train,Lying on bed or sofa,Q42EE_0.00.mp4,Charades,0.00,13.05
+5456,train,Lying on bed or sofa,SXMII_0.00.mp4,Charades,0.00,10.008
+5457,train,Lying on bed or sofa,IHLXC_1.30.mp4,Charades,1.30,7.0
+5458,train,Lying on bed or sofa,ABK63_0.40.mp4,Charades,0.40,30.14
+5459,train,Lying on bed or sofa,NDLY5_0.00.mp4,Charades,0.00,15.02
+5460,train,Lying on bed or sofa,V8GK6_0.00.mp4,Charades,0.00,32.0
+5461,train,Lying on bed or sofa,27SS2_0.00.mp4,Charades,0.00,15.001
+5462,train,Lying on bed or sofa,XMF8Y_0.00.mp4,Charades,0.00,6.014
+5463,train,Lying on bed or sofa,8CQ9Y_0.00.mp4,Charades,0.00,30.28
+5464,train,Lying on bed or sofa,GIW6N_0.00.mp4,Charades,0.00,30.001
+5465,train,Lying on bed or sofa,DQ0EE_0.00.mp4,Charades,0.00,15.001
+5466,train,Lying on bed or sofa,8YZ8X_2.40.mp4,Charades,2.40,22.0
+5467,train,Lying on bed or sofa,D87UN_0.00.mp4,Charades,0.00,29.12
+5468,train,Lying on bed or sofa,9NV2G_0.00.mp4,Charades,0.00,33.28
+5469,train,Lying on bed or sofa,MUVB8_0.00.mp4,Charades,0.00,19.018
+5470,train,Lying on bed or sofa,MU6UQ_0.00.mp4,Charades,0.00,7.013
+5471,train,Lying on bed or sofa,J5CAN_0.00.mp4,Charades,0.00,9.01
+5472,train,Lying on bed or sofa,P81OP_6.00.mp4,Charades,6.00,16.0
+5473,train,Lying on bed or sofa,ZGHLY_10.10.mp4,Charades,10.10,20.64
+5474,train,Lying on bed or sofa,J84TZ_0.00.mp4,Charades,0.00,5.016
+5475,train,Lying on bed or sofa,AFAXI_0.00.mp4,Charades,0.00,17.004
+5476,train,Lying on bed or sofa,FPQRX_0.00.mp4,Charades,0.00,4.018
+5477,train,Lying on bed or sofa,7B50N_0.00.mp4,Charades,0.00,30.48
+5478,train,Lying on bed or sofa,LP47Z_0.00.mp4,Charades,0.00,9.01
+5479,train,Lying on bed or sofa,P3WQV_3.90.mp4,Charades,3.90,26.0
+5480,train,Lying on bed or sofa,7HWS7_0.00.mp4,Charades,0.00,4.011
+5481,train,Lying on bed or sofa,8LWV7_0.00.mp4,Charades,0.00,30.018
+5482,train,Lying on bed or sofa,USNP1_0.00.mp4,Charades,0.00,19.088
+5483,train,Lying on bed or sofa,7T6MB_10.20.mp4,Charades,10.20,21.48
+5484,train,Lying on bed or sofa,1MD1H_0.00.mp4,Charades,0.00,16.022
+5485,train,Lying on bed or sofa,NMTRI_0.00.mp4,Charades,0.00,31.58
+5486,train,Lying on bed or sofa,DDV1G_0.00.mp4,Charades,0.00,7.013
+5487,train,Lying on bed or sofa,AB166_0.00.mp4,Charades,0.00,15.12
+5488,train,Lying on bed or sofa,RHAJX_0.00.mp4,Charades,0.00,8.011
+5489,train,Lying on bed or sofa,KKONU_0.00.mp4,Charades,0.00,5.016
+5490,train,Lying on bed or sofa,8JT6S_6.30.mp4,Charades,6.30,6.0
+5491,train,Lying on bed or sofa,IULMX_0.00.mp4,Charades,0.00,26.889
+5492,train,Lying on bed or sofa,DED50_0.00.mp4,Charades,0.00,8.011
+5493,train,Lying on bed or sofa,HJH7H_0.00.mp4,Charades,0.00,25.72
+5494,train,Lying on bed or sofa,LRJS4_0.00.mp4,Charades,0.00,7.013
+5495,train,Lying on bed or sofa,YFBA1_3.90.mp4,Charades,3.90,8.0
+5496,train,Lying on bed or sofa,AWGMW_0.00.mp4,Charades,0.00,5.016
+5497,train,Lying on bed or sofa,JY6TC_0.00.mp4,Charades,0.00,4.018
+5498,train,Lying on bed or sofa,COPFE_0.00.mp4,Charades,0.00,35.32
+5499,train,Lying on bed or sofa,I6AZD_20.80.mp4,Charades,20.80,10.04
+5500,train,Lying on bed or sofa,UEP20_14.60.mp4,Charades,14.60,10.008
+5501,train,Lying on bed or sofa,T84EQ_0.00.mp4,Charades,0.00,5.016
+5502,train,Lying on bed or sofa,R6QCQ_0.00.mp4,Charades,0.00,10.008
+5503,train,Lying on bed or sofa,S1N2U_0.00.mp4,Charades,0.00,19.018
+5504,train,Lying on bed or sofa,YVH4J_0.00.mp4,Charades,0.00,46.76
+5505,train,Lying on bed or sofa,STAFD_0.00.mp4,Charades,0.00,62.509
+5506,train,Lying on bed or sofa,SRTW8_8.20.mp4,Charades,8.20,8.011
+5507,train,Lying on bed or sofa,SRTW8_0.00.mp4,Charades,0.00,10.008
+10682,train,eat,D4XVH_8.90.mp4,Charades,8.90,23.64
+10684,train,eat,9PWEK_18.60.mp4,Charades,18.60,16.56
+10685,train,eat,PXBN0_24.60.mp4,Charades,24.60,4.923
+10687,train,eat,OSIKP_22.20.mp4,Charades,22.20,6.0
+10688,train,eat,BVX8X_17.10.mp4,Charades,17.10,6.0
+10689,train,eat,MSW4E_10.80.mp4,Charades,10.80,10.006
+10699,train,eat,M7Y6V_20.90.mp4,Charades,20.90,11.842
+10700,train,eat,MYB7P_12.40.mp4,Charades,12.40,6.014
+10701,train,eat,KKONU_8.50.mp4,Charades,8.50,11.007
+10703,train,eat,DY5VP_0.00.mp4,Charades,0.00,21.292
+10705,train,eat,37GL4_12.90.mp4,Charades,12.90,13.76
+10707,train,eat,JVV45_0.00.mp4,Charades,0.00,18.019
+10710,train,eat,DWBS3_0.00.mp4,Charades,0.00,4.018
+10711,train,eat,KS85E_12.50.mp4,Charades,12.50,13.004
+10712,train,eat,H1J19_0.00.mp4,Charades,0.00,18.019
+10720,train,eat,1SVJS_0.00.mp4,Charades,0.00,6.014
+10721,train,eat,B0BDR_13.30.mp4,Charades,13.30,17.92
+10722,train,eat,2K755_0.00.mp4,Charades,0.00,6.014
+10723,train,eat,3EIRZ_0.20.mp4,Charades,0.20,11.007
+10725,train,eat,E18UD_14.90.mp4,Charades,14.90,23.96
+10728,train,eat,59X8N_29.30.mp4,Charades,29.30,8.32
+10729,train,eat,DQEC3_15.40.mp4,Charades,15.40,14.84
+10732,train,eat,2X7F6_18.10.mp4,Charades,18.10,8.0
+10733,train,eat,4Y1AW_0.00.mp4,Charades,0.00,33.019
+10734,train,eat,MFOVZ_0.00.mp4,Charades,0.00,5.016
+10739,train,eat,M1TZR_10.30.mp4,Charades,10.30,19.0
+10741,train,eat,BT8WU_26.20.mp4,Charades,26.20,5.4
+10747,train,eat,H5ZG9_9.10.mp4,Charades,9.10,21.72
+10750,train,eat,MVPQF_14.30.mp4,Charades,14.30,18.4
+10751,train,eat,70FXC_24.00.mp4,Charades,24.00,9.6
+10752,train,eat,FGY8R_10.60.mp4,Charades,10.60,7.013
+10753,train,eat,EQ4GN_6.60.mp4,Charades,6.60,20.0
+10755,train,eat,BCO3C_0.00.mp4,Charades,0.00,27.005
+10756,train,eat,9VBJ5_0.00.mp4,Charades,0.00,19.009
+10758,train,eat,170OQ_0.00.mp4,Charades,0.00,16.022
+10759,train,eat,J99Z8_5.20.mp4,Charades,5.20,24.404
+10760,train,eat,ANXB8_0.00.mp4,Charades,0.00,6.014
+10763,train,eat,I5Q2Z_12.60.mp4,Charades,12.60,5.016
+10764,train,eat,2JP64_14.40.mp4,Charades,14.40,8.011
+10767,train,eat,4MFE0_0.40.mp4,Charades,0.40,7.013
+10768,train,eat,A3MOW_0.00.mp4,Charades,0.00,20.016
+10769,train,eat,JMTI2_0.00.mp4,Charades,0.00,31.162
+10773,train,eat,8W31Y_2.30.mp4,Charades,2.30,6.0
+10774,train,eat,AS7SG_2.70.mp4,Charades,2.70,22.0
+10777,train,eat,4VCHD_7.30.mp4,Charades,7.30,8.0
+10779,train,eat,PNAXO_4.10.mp4,Charades,4.10,29.0
+10784,train,eat,EM0B6_18.90.mp4,Charades,18.90,11.448
+10786,train,eat,5M9JX_2.40.mp4,Charades,2.40,7.0
+10787,train,eat,0SBT3_0.00.mp4,Charades,0.00,6.36
+10788,train,eat,1OIPY_17.80.mp4,Charades,17.80,14.002
+10789,train,eat,F0OW8_14.20.mp4,Charades,14.20,8.011
+10793,train,eat,ANAR5_3.10.mp4,Charades,3.10,9.0
+10795,train,eat,9GLQZ_3.20.mp4,Charades,3.20,27.8
+10803,train,eat,54VBR_0.00.mp4,Charades,0.00,8.011
+10804,train,eat,LVLVR_14.90.mp4,Charades,14.90,12.005
+10807,train,eat,I005F_12.20.mp4,Charades,12.20,6.28
+10808,train,eat,MLBTH_15.90.mp4,Charades,15.90,15.68
+10809,train,eat,CLORP_28.20.mp4,Charades,28.20,10.72
+10826,train,eat,08AQS_0.00.mp4,Charades,0.00,30.001
+10828,train,eat,4WUNC_27.00.mp4,Charades,27.00,10.72
+10830,train,eat,41ZY4_14.40.mp4,Charades,14.40,13.84
+10831,train,eat,TIJOY_6.30.mp4,Charades,6.30,9.0
+10836,train,eat,D52S5_6.20.mp4,Charades,6.20,7.0
+10838,train,eat,4KOBZ_0.00.mp4,Charades,0.00,6.014
+10840,train,eat,8N939_3.10.mp4,Charades,3.10,8.0
+10841,train,eat,D4RH8_21.60.mp4,Charades,21.60,8.16
+10847,train,eat,5HJ2H_0.00.mp4,Charades,0.00,6.016
+10848,train,eat,4C4LC_0.00.mp4,Charades,0.00,31.56
+10852,train,eat,1WLKW_0.00.mp4,Charades,0.00,14.28
+10856,train,eat,WO0OM_19.30.mp4,Charades,19.30,12.56
+10857,train,eat,LKQQO_13.40.mp4,Charades,13.40,18.88
+10860,train,eat,6AHD0_1.50.mp4,Charades,1.50,12.011
+10864,train,eat,JQ2SN_0.10.mp4,Charades,0.10,18.006
+10866,train,eat,QUGSS_1.90.mp4,Charades,1.90,11.0
+10868,train,eat,O8S0J_0.00.mp4,Charades,0.00,9.01
+10870,train,eat,QG338_25.40.mp4,Charades,25.40,7.013
+10876,train,eat,9I42K_0.00.mp4,Charades,0.00,30.68
+10878,train,eat,DVDU2_24.70.mp4,Charades,24.70,7.013
+10884,train,eat,R00LO_24.20.mp4,Charades,24.20,7.84
+10896,train,eat,JBY4E_8.10.mp4,Charades,8.10,22.0
+10900,train,eat,6XGUE_3.40.mp4,Charades,3.40,8.0
+10901,train,eat,DDUXF_0.00.mp4,Charades,0.00,33.019
+10902,train,eat,0N8OZ_0.00.mp4,Charades,0.00,30.88
+10904,train,eat,G1BSD_13.90.mp4,Charades,13.90,7.013
+10906,train,eat,EFX3U_18.20.mp4,Charades,18.20,12.68
+10908,train,eat,E5TW6_0.00.mp4,Charades,0.00,18.019
+10915,train,eat,47Y1X_0.00.mp4,Charades,0.00,33.52
+10921,train,eat,9OH7W_21.30.mp4,Charades,21.30,11.007
+10922,train,eat,970NN_1.80.mp4,Charades,1.80,19.008
+10923,train,eat,3UWW0_0.00.mp4,Charades,0.00,7.013
+10924,train,eat,I7DWS_0.00.mp4,Charades,0.00,7.72
+10927,train,eat,R4ENI_15.00.mp4,Charades,15.00,8.011
+10928,train,eat,EDPTO_28.20.mp4,Charades,28.20,7.013
+10931,train,eat,QEFJF_0.00.mp4,Charades,0.00,10.008
+10932,train,eat,6YTAJ_22.50.mp4,Charades,22.50,9.195
+10936,train,eat,Q6XGG_24.80.mp4,Charades,24.80,7.08
+10937,train,eat,PPUOO_2.20.mp4,Charades,2.20,8.0
+10945,train,eat,NB6F5_2.80.mp4,Charades,2.80,10.0
+10946,train,eat,BGQIF_7.90.mp4,Charades,7.90,13.004
+10948,train,eat,DZ2J6_0.00.mp4,Charades,0.00,30.023
+10950,train,eat,J27HW_26.70.mp4,Charades,26.70,5.04
+10953,train,eat,B5UXP_0.00.mp4,Charades,0.00,53.08
+10957,train,eat,CGNBJ_30.80.mp4,Charades,30.80,8.24
+10958,train,eat,5SAAB_27.20.mp4,Charades,27.20,3.84
+10959,train,eat,KKCB9_0.00.mp4,Charades,0.00,24.52
+10960,train,eat,TK76G_12.40.mp4,Charades,12.40,3.692
+10961,train,eat,CN43X_13.70.mp4,Charades,13.70,20.76
+10962,train,eat,92NRK_3.20.mp4,Charades,3.20,27.52
+10965,train,eat,SSKK6_0.00.mp4,Charades,0.00,6.014
+10972,train,eat,5L04F_12.60.mp4,Charades,12.60,16.92
+10974,train,eat,9ILM6_0.00.mp4,Charades,0.00,27.005
+10975,train,eat,SUYMQ_14.80.mp4,Charades,14.80,22.12
+10978,train,eat,17RPG_26.70.mp4,Charades,26.70,6.432
+10979,train,eat,8QL4N_12.10.mp4,Charades,12.10,10.08
+10981,train,eat,ELBLK_20.10.mp4,Charades,20.10,10.112
+10982,train,eat,P3EW1_16.50.mp4,Charades,16.50,23.04
+10984,train,eat,KY28J_8.40.mp4,Charades,8.40,8.011
+10986,train,eat,7TJ14_19.10.mp4,Charades,19.10,8.0
+10987,train,eat,5FDHU_0.20.mp4,Charades,0.20,7.013
+10988,train,eat,HAIVQ_17.40.mp4,Charades,17.40,13.0
+10989,train,eat,43UGG_4.10.mp4,Charades,4.10,8.0
+10991,train,eat,B8IYJ_13.50.mp4,Charades,13.50,5.642
+10993,train,eat,JELL2_12.50.mp4,Charades,12.50,13.259
+10994,train,eat,GIC0G_0.00.mp4,Charades,0.00,31.022
+10996,train,eat,1SJQX_23.00.mp4,Charades,23.00,7.48
+10998,train,eat,88TCK_24.70.mp4,Charades,24.70,7.431
+11000,train,eat,PABBK_17.40.mp4,Charades,17.40,12.64
+11004,train,eat,AYXFY_15.80.mp4,Charades,15.80,8.011
+11005,train,eat,H41MY_0.00.mp4,Charades,0.00,18.0
+11009,train,eat,5P0ON_0.00.mp4,Charades,0.00,8.011
+11011,train,eat,450TW_10.00.mp4,Charades,10.00,7.013
+11012,train,eat,EU10X_0.00.mp4,Charades,0.00,9.01
+11017,train,eat,QQRP2_0.00.mp4,Charades,0.00,12.01
+11020,train,eat,JUCOK_0.00.mp4,Charades,0.00,22.013
+11022,train,eat,1BEFM_1.80.mp4,Charades,1.80,9.0
+11030,train,eat,706BT_0.00.mp4,Charades,0.00,6.014
+11031,train,eat,K4UOG_13.00.mp4,Charades,13.00,16.0
+11032,train,eat,78N0Z_21.10.mp4,Charades,21.10,9.622
+11035,train,eat,HJ2JO_0.00.mp4,Charades,0.00,9.01
+11039,train,eat,61TMQ_18.00.mp4,Charades,18.00,15.92
+11041,train,eat,ERGN3_0.00.mp4,Charades,0.00,18.019
+11044,train,eat,MJVDK_0.00.mp4,Charades,0.00,33.88
+11048,train,eat,B7DNX_6.20.mp4,Charades,6.20,16.0
+11049,train,eat,SP6M4_9.80.mp4,Charades,9.80,3.88
+11051,train,eat,7VP2U_1.80.mp4,Charades,1.80,16.835
+11056,train,eat,H603E_26.50.mp4,Charades,26.50,6.44
+11057,train,eat,MPBRL_0.00.mp4,Charades,0.00,6.014
+11062,train,eat,MN1MC_16.70.mp4,Charades,16.70,14.0
+11067,train,eat,EBTD6_15.90.mp4,Charades,15.90,7.013
+11069,train,eat,JK4Q2_26.30.mp4,Charades,26.30,5.0
+11070,train,eat,SXYLN_3.50.mp4,Charades,3.50,21.0
+11073,train,eat,FU5BL_12.20.mp4,Charades,12.20,20.32
+11078,train,eat,CSRZM_15.20.mp4,Charades,15.20,18.019
+11079,train,eat,05ZNF_23.10.mp4,Charades,23.10,8.0
+11089,train,eat,AMIHY_0.00.mp4,Charades,0.00,14.002
+11090,train,eat,4SW5W_0.00.mp4,Charades,0.00,30.8
+11092,train,eat,CJJ4Q_7.20.mp4,Charades,7.20,16.0
+11094,train,eat,IUOC0_21.20.mp4,Charades,21.20,7.569
+11096,train,eat,SJJ35_10.30.mp4,Charades,10.30,6.014
+11101,train,eat,GL7ER_20.50.mp4,Charades,20.50,11.008
+11104,train,eat,L9H3O_29.00.mp4,Charades,29.00,4.134
+11108,train,eat,5MYL4_0.00.mp4,Charades,0.00,30.489
+11111,train,eat,2M9YL_11.60.mp4,Charades,11.60,7.013
+11115,train,eat,HUNW6_5.20.mp4,Charades,5.20,14.002
+11118,train,eat,O3SQK_5.90.mp4,Charades,5.90,19.68
+11121,train,eat,WNKL6_20.80.mp4,Charades,20.80,7.36
+11124,train,eat,42MC3_18.50.mp4,Charades,18.50,5.852
+11127,train,eat,F0ZPW_2.70.mp4,Charades,2.70,25.0
+11133,train,eat,CBG3N_0.00.mp4,Charades,0.00,9.01
+11134,train,eat,QJIAV_0.00.mp4,Charades,0.00,8.011
+11135,train,eat,H9F6S_1.10.mp4,Charades,1.10,28.0
+11137,train,eat,G1A2O_3.90.mp4,Charades,3.90,7.0
+11140,train,eat,GBPPR_0.00.mp4,Charades,0.00,13.014
+11142,train,eat,BNH5C_0.00.mp4,Charades,0.00,26.007
+11144,train,eat,LKYCT_6.50.mp4,Charades,6.50,20.0
+11146,train,eat,MW2KW_0.00.mp4,Charades,0.00,30.4
+11147,train,eat,KTXE0_25.00.mp4,Charades,25.00,5.56
+11148,train,eat,0DBQD_0.00.mp4,Charades,0.00,6.014
+11149,train,eat,CYM3V_16.20.mp4,Charades,16.20,14.68
+11151,train,eat,OHLSE_17.00.mp4,Charades,17.00,6.0
+11154,train,eat,7JZTY_6.00.mp4,Charades,6.00,8.0
+11155,train,eat,3H0PT_0.00.mp4,Charades,0.00,13.004
+11157,train,eat,2QYZA_21.90.mp4,Charades,21.90,8.811
+11158,train,eat,3D94R_3.70.mp4,Charades,3.70,12.377
+11160,train,eat,MTEOU_6.80.mp4,Charades,6.80,50.0
+11164,train,eat,D2GQH_15.20.mp4,Charades,15.20,7.013
+11165,train,eat,ENC45_0.00.mp4,Charades,0.00,14.002
+11166,train,eat,CF9QP_13.40.mp4,Charades,13.40,13.004
+11169,train,eat,QCIV0_0.00.mp4,Charades,0.00,8.011
+11171,train,eat,9VZOY_14.60.mp4,Charades,14.60,7.0
+11173,train,eat,9KGOL_0.00.mp4,Charades,0.00,20.016
+11174,train,eat,A1NKP_11.60.mp4,Charades,11.60,7.013
+11175,train,eat,406LH_5.70.mp4,Charades,5.70,13.004
+11176,train,eat,71QKB_0.00.mp4,Charades,0.00,4.018
+11177,train,eat,ITJIY_0.00.mp4,Charades,0.00,13.004
+11180,train,eat,6N4BD_22.30.mp4,Charades,22.30,11.32
+11182,train,eat,3ZH9Z_0.00.mp4,Charades,0.00,10.008
+11188,train,eat,6FUDS_17.70.mp4,Charades,17.70,15.6
+11189,train,eat,7UGF7_27.80.mp4,Charades,27.80,21.52
+11191,train,eat,EW6RX_2.50.mp4,Charades,2.50,6.0
+11192,train,eat,9NRLA_13.60.mp4,Charades,13.60,7.013
+11194,train,eat,RH2YW_2.40.mp4,Charades,2.40,6.0
+11195,train,eat,SA9PB_3.30.mp4,Charades,3.30,6.0
+11196,train,eat,7K2CS_17.90.mp4,Charades,17.90,13.166
+11203,train,eat,4X2JC_20.10.mp4,Charades,20.10,11.2
+11212,train,eat,O7OD2_8.00.mp4,Charades,8.00,9.01
+11214,train,eat,M7DIB_3.60.mp4,Charades,3.60,7.0
+11217,train,eat,6YGBD_6.10.mp4,Charades,6.10,17.0
+11219,train,eat,6R7QW_24.50.mp4,Charades,24.50,11.92
+11221,train,eat,5D1FD_9.10.mp4,Charades,9.10,9.01
+11222,train,eat,74S1R_9.50.mp4,Charades,9.50,11.007
+11226,train,eat,9632M_5.50.mp4,Charades,5.50,26.007
+11228,train,eat,TC3BF_6.70.mp4,Charades,6.70,17.0
+11229,train,eat,WI6NB_13.40.mp4,Charades,13.40,14.002
+11231,train,eat,GHARQ_9.90.mp4,Charades,9.90,14.002
+11233,train,eat,I562C_15.20.mp4,Charades,15.20,11.007
+11235,train,eat,SVQFY_14.30.mp4,Charades,14.30,11.007
+11236,train,eat,LPHVE_0.00.mp4,Charades,0.00,31.68
+11237,train,eat,39SXL_5.80.mp4,Charades,5.80,24.0
+11240,train,eat,AEA8P_0.00.mp4,Charades,0.00,4.018
+11241,train,eat,LKN3Z_27.50.mp4,Charades,27.50,6.76
+11242,train,eat,18FTZ_25.00.mp4,Charades,25.00,6.618
+11243,train,eat,1ECM2_0.10.mp4,Charades,0.10,12.005
+11246,train,eat,2JT00_15.30.mp4,Charades,15.30,6.571
+11247,train,eat,24B2K_8.00.mp4,Charades,8.00,13.004
+11251,train,eat,PHH6B_0.00.mp4,Charades,0.00,15.001
+11254,train,eat,OW9LO_19.70.mp4,Charades,19.70,11.0
+11255,train,eat,8BA61_19.30.mp4,Charades,19.30,12.005
+11257,train,eat,1K0SU_6.50.mp4,Charades,6.50,25.36
+11258,train,eat,FUT86_26.30.mp4,Charades,26.30,11.007
+11259,train,eat,MR66M_22.50.mp4,Charades,22.50,10.24
+11260,train,eat,GZMJK_27.10.mp4,Charades,27.10,5.08
+11261,train,eat,I8BC5_8.00.mp4,Charades,8.00,9.01
+11265,train,eat,FO2RD_0.90.mp4,Charades,0.90,19.018
+11266,train,eat,GMTL9_14.20.mp4,Charades,14.20,9.01
+11267,train,eat,EK19H_4.50.mp4,Charades,4.50,12.005
+11268,train,eat,M8PXK_0.00.mp4,Charades,0.00,30.16
+11271,train,eat,583F7_13.60.mp4,Charades,13.60,21.72
+11277,train,eat,9GOUI_0.30.mp4,Charades,0.30,7.013
+11278,train,eat,L5842_18.20.mp4,Charades,18.20,9.0
+11281,train,eat,TNOBD_20.70.mp4,Charades,20.70,10.12
+11287,train,eat,A2XH1_2.40.mp4,Charades,2.40,30.44
+11290,train,eat,9AFQ7_16.50.mp4,Charades,16.50,31.0
+11294,train,eat,75MO8_0.50.mp4,Charades,0.50,17.021
+11295,train,eat,BY6ZZ_0.00.mp4,Charades,0.00,15.001
+11296,train,eat,F6Z7U_1.70.mp4,Charades,1.70,6.0
+11297,train,eat,E24EQ_0.00.mp4,Charades,0.00,30.04
+11302,train,eat,6B93R_12.80.mp4,Charades,12.80,10.008
+11304,train,eat,00YZL_2.20.mp4,Charades,2.20,29.002
+11305,train,eat,DOB0W_5.60.mp4,Charades,5.60,4.72
+11307,train,eat,3HUXR_0.00.mp4,Charades,0.00,38.012
+11311,train,eat,H5V2Y_3.30.mp4,Charades,3.30,11.0
+11312,train,eat,IH3GN_0.00.mp4,Charades,0.00,30.56
+11319,train,eat,NXC5X_12.40.mp4,Charades,12.40,10.008
+11320,train,eat,GWQ73_8.70.mp4,Charades,8.70,7.0
+11321,train,eat,D0SCK_0.00.mp4,Charades,0.00,22.013
+11322,train,eat,NTYC3_3.00.mp4,Charades,3.00,22.0
+11331,train,eat,96GC9_7.20.mp4,Charades,7.20,13.004
+11332,train,eat,FKAGD_13.80.mp4,Charades,13.80,8.011
+11333,train,eat,TQMTC_0.00.mp4,Charades,0.00,4.4
+11335,train,eat,N8XDV_2.50.mp4,Charades,2.50,6.0
+11338,train,eat,GN912_18.40.mp4,Charades,18.40,2.36
+11339,train,eat,56JT8_0.00.mp4,Charades,0.00,6.014
+11340,train,eat,9MXDX_8.50.mp4,Charades,8.50,11.007
+11341,train,eat,A7BUX_0.00.mp4,Charades,0.00,16.022
+11345,train,eat,ALXUC_4.50.mp4,Charades,4.50,11.64
+11347,train,eat,282ZZ_18.50.mp4,Charades,18.50,9.0
+11350,train,eat,KOF86_25.30.mp4,Charades,25.30,8.011
+11351,train,eat,2LMQF_0.00.mp4,Charades,0.00,14.017
+11352,train,eat,DPCGS_2.10.mp4,Charades,2.10,8.0
+11354,train,eat,72JYK_4.20.mp4,Charades,4.20,19.24
+11356,train,eat,JL6MG_24.40.mp4,Charades,24.40,13.004
+11357,train,eat,AX4EW_1.50.mp4,Charades,1.50,14.0
+11358,train,eat,EQ4GN_3.00.mp4,Charades,3.00,6.0
+11362,train,eat,1UXVA_8.30.mp4,Charades,8.30,9.01
+11367,train,eat,KGU21_0.00.mp4,Charades,0.00,31.928
+11368,train,eat,SNK5Z_15.10.mp4,Charades,15.10,6.014
+11369,train,eat,CM293_0.40.mp4,Charades,0.40,10.008
+11370,train,eat,QN42P_0.00.mp4,Charades,0.00,30.56
+11371,train,eat,4A81E_14.10.mp4,Charades,14.10,21.015
+11373,train,eat,RKGXU_5.40.mp4,Charades,5.40,8.0
+11374,train,eat,NHLQ1_17.30.mp4,Charades,17.30,6.0
+11375,train,eat,3CA1X_23.20.mp4,Charades,23.20,8.48
+11379,train,eat,CEQM1_0.00.mp4,Charades,0.00,25.008
+11383,train,eat,HFYNW_0.00.mp4,Charades,0.00,9.01
+11384,train,eat,FZIW9_4.50.mp4,Charades,4.50,28.8
+11387,train,eat,WV9FZ_4.40.mp4,Charades,4.40,8.0
+11388,train,eat,GQZOR_8.00.mp4,Charades,8.00,10.008
+11391,train,eat,02XLP_16.10.mp4,Charades,16.10,14.96
+11392,train,eat,DKV1Z_0.00.mp4,Charades,0.00,32.042
+11395,train,eat,BI86J_6.00.mp4,Charades,6.00,9.0
+11397,train,eat,L42OQ_2.90.mp4,Charades,2.90,28.88
+11400,train,eat,GFX2M_0.00.mp4,Charades,0.00,29.721
+11401,train,eat,9HI9D_23.90.mp4,Charades,23.90,7.92
+11404,train,eat,RYRQT_0.00.mp4,Charades,0.00,28.004
+11408,train,eat,L1S6P_6.80.mp4,Charades,6.80,13.004
+11410,train,eat,GNPSK_0.00.mp4,Charades,0.00,5.016
+11414,train,eat,CD11G_9.80.mp4,Charades,9.80,8.011
+11416,train,eat,A5CRZ_7.70.mp4,Charades,7.70,39.0
+11417,train,eat,GLS7U_0.00.mp4,Charades,0.00,26.007
+11420,train,eat,AXJUB_0.00.mp4,Charades,0.00,37.013
+11421,train,eat,DH66I_16.60.mp4,Charades,16.60,16.12
+11422,train,eat,1UNXY_0.00.mp4,Charades,0.00,5.016
+11425,train,eat,8SVWO_29.60.mp4,Charades,29.60,3.762
+11426,train,eat,DTJ6B_0.00.mp4,Charades,0.00,25.611
+11428,train,eat,CFDXI_3.70.mp4,Charades,3.70,15.001
+11429,train,eat,KRT78_0.00.mp4,Charades,0.00,24.01
+11434,train,eat,HKM3R_0.00.mp4,Charades,0.00,31.08
+11436,train,eat,6AHBW_0.00.mp4,Charades,0.00,7.013
+11439,train,eat,LDL8D_7.50.mp4,Charades,7.50,14.652
+11440,train,eat,PP2FF_0.00.mp4,Charades,0.00,7.013
+11441,train,eat,A5XR5_15.10.mp4,Charades,15.10,17.88
+11444,train,eat,16S3C_0.00.mp4,Charades,0.00,19.018
+11447,train,eat,GW2Y8_8.30.mp4,Charades,8.30,17.0
+11451,train,eat,6ZJAL_25.30.mp4,Charades,25.30,8.48
+11452,train,eat,E0IME_0.00.mp4,Charades,0.00,18.019
+11459,train,eat,C3ZJU_7.00.mp4,Charades,7.00,22.64
+11462,train,eat,857S9_8.00.mp4,Charades,8.00,26.611
+11464,train,eat,KNGUT_24.00.mp4,Charades,24.00,6.48
+11466,train,eat,HC62A_11.10.mp4,Charades,11.10,20.828
+11472,train,eat,GH3D1_7.90.mp4,Charades,7.90,7.0
+11477,train,eat,6YN3J_0.00.mp4,Charades,0.00,16.022
+11479,train,eat,FT3D7_0.00.mp4,Charades,0.00,9.01
+11484,train,eat,KW3BO_0.00.mp4,Charades,0.00,7.013
+11485,train,eat,106AY_29.10.mp4,Charades,29.10,5.08
+11489,train,eat,38T9C_7.30.mp4,Charades,7.30,6.0
+11491,train,eat,SQBEE_1.20.mp4,Charades,1.20,6.0
+11492,train,eat,PN4MI_17.70.mp4,Charades,17.70,9.0
+11493,train,eat,F3A3T_10.60.mp4,Charades,10.60,17.0
+11495,train,eat,2P6ZP_19.60.mp4,Charades,19.60,12.56
+11496,train,eat,E0MK4_0.70.mp4,Charades,0.70,10.008
+11497,train,eat,AHL6X_11.10.mp4,Charades,11.10,22.16
+11500,train,eat,BBYHD_2.10.mp4,Charades,2.10,20.0
+11503,train,eat,NO0WS_0.00.mp4,Charades,0.00,11.007
+11506,train,eat,3CIVD_14.80.mp4,Charades,14.80,8.011
+11508,train,eat,0YTSJ_32.70.mp4,Charades,32.70,5.16
+11516,train,eat,I7HPL_0.00.mp4,Charades,0.00,30.56
+11518,train,eat,8X49S_1.40.mp4,Charades,1.40,8.0
+11519,train,eat,JIWY2_0.00.mp4,Charades,0.00,13.004
+11521,train,eat,KBPDM_15.70.mp4,Charades,15.70,20.062
+11523,train,eat,45FWP_8.30.mp4,Charades,8.30,18.0
+11526,train,eat,0NVG2_22.60.mp4,Charades,22.60,8.2
+11527,train,eat,AEZDA_0.00.mp4,Charades,0.00,10.008
+11530,train,eat,WH1S5_8.40.mp4,Charades,8.40,18.0
+11531,train,eat,6E4L5_6.40.mp4,Charades,6.40,10.008
+11532,train,eat,RS3SQ_13.20.mp4,Charades,13.20,8.011
+11536,train,eat,2GF6R_6.30.mp4,Charades,6.30,11.007
+11541,train,eat,LWP5F_0.00.mp4,Charades,0.00,17.021
+11543,train,eat,MSQA1_49.20.mp4,Charades,49.20,4.365
+11545,train,eat,IO3CI_11.80.mp4,Charades,11.80,7.013
+11548,train,eat,GC51E_63.20.mp4,Charades,63.20,25.0
+11549,train,eat,OLEWM_0.00.mp4,Charades,0.00,10.008
+11550,train,eat,1HAYV_24.10.mp4,Charades,24.10,7.013
+11551,train,eat,FW1L0_2.00.mp4,Charades,2.00,7.0
+11555,train,eat,5J9HP_20.80.mp4,Charades,20.80,8.0
+11556,train,eat,B5X50_0.00.mp4,Charades,0.00,5.92
+11558,train,eat,1AA6Z_13.90.mp4,Charades,13.90,7.013
+11560,train,eat,PGKB4_3.20.mp4,Charades,3.20,12.0
+11563,train,eat,73E7V_14.70.mp4,Charades,14.70,15.001
+11565,train,eat,J39ZC_25.80.mp4,Charades,25.80,10.28
+11566,train,eat,BV5CC_19.40.mp4,Charades,19.40,11.16
+11572,train,eat,OI7GQ_26.10.mp4,Charades,26.10,5.68
+11573,train,eat,38I4G_5.10.mp4,Charades,5.10,20.928
+11578,train,eat,ICALV_0.00.mp4,Charades,0.00,31.28
+11580,train,eat,CMFMH_0.00.mp4,Charades,0.00,8.011
+11584,train,eat,38TF8_0.00.mp4,Charades,0.00,31.6
+11586,train,eat,5C3NY_0.00.mp4,Charades,0.00,23.011
+11587,train,eat,E40Y8_13.80.mp4,Charades,13.80,41.48
+11590,train,eat,D8HN1_1.60.mp4,Charades,1.60,7.0
+11591,train,eat,KVYBY_1.60.mp4,Charades,1.60,13.0
+11593,train,eat,01KM1_15.20.mp4,Charades,15.20,12.005
+11595,train,eat,8J5O9_17.00.mp4,Charades,17.00,13.48
+11596,train,eat,1N1UT_0.00.mp4,Charades,0.00,29.84
+11597,train,eat,HOGVD_13.50.mp4,Charades,13.50,12.167
+11598,train,eat,6AVDE_0.00.mp4,Charades,0.00,6.014
+11600,train,eat,3OQ81_5.50.mp4,Charades,5.50,14.4
+11603,train,eat,H26YY_8.20.mp4,Charades,8.20,15.001
+11609,train,eat,CZY4Q_13.20.mp4,Charades,13.20,30.0
+11610,train,eat,L9J5I_0.30.mp4,Charades,0.30,12.005
+11611,train,eat,J7TT5_0.00.mp4,Charades,0.00,12.005
+11613,train,eat,6ALEL_21.90.mp4,Charades,21.90,4.969
+11614,train,eat,4GCPM_17.30.mp4,Charades,17.30,21.0
+11616,train,eat,GCWNT_14.70.mp4,Charades,14.70,8.96
+11618,train,eat,P03FP_26.30.mp4,Charades,26.30,5.36
+11620,train,eat,DY9AE_0.00.mp4,Charades,0.00,10.008
+11621,train,eat,JISS4_11.70.mp4,Charades,11.70,31.96
+11623,train,eat,GBDJX_15.50.mp4,Charades,15.50,7.68
+11624,train,eat,OA9W5_0.00.mp4,Charades,0.00,12.005
+11625,train,eat,F31X6_20.10.mp4,Charades,20.10,6.0
+11627,train,eat,E6Q95_14.00.mp4,Charades,14.00,11.52
+11628,train,eat,8GP10_7.50.mp4,Charades,7.50,11.0
+11633,train,eat,J3UKN_1.00.mp4,Charades,1.00,22.0
+11635,train,eat,OURYR_0.00.mp4,Charades,0.00,30.88
+11636,train,eat,SBOI8_0.00.mp4,Charades,0.00,15.001
+11637,train,eat,HFWE9_0.00.mp4,Charades,0.00,31.417
+11640,train,eat,52MV9_22.40.mp4,Charades,22.40,11.0
+11641,train,eat,77UTO_6.90.mp4,Charades,6.90,21.0
+11642,train,eat,BFVX0_11.40.mp4,Charades,11.40,14.52
+11643,train,eat,0K0LP_10.20.mp4,Charades,10.20,16.72
+11646,train,eat,Q6IU9_19.30.mp4,Charades,19.30,9.0
+11654,train,eat,DJVZQ_2.40.mp4,Charades,2.40,26.006
+11658,train,eat,2J4MA_0.00.mp4,Charades,0.00,7.019
+11660,train,eat,5CZRC_0.00.mp4,Charades,0.00,8.011
+11669,train,eat,FVPMC_25.20.mp4,Charades,25.20,7.013
+11670,train,eat,642HE_1.20.mp4,Charades,1.20,41.72
+11672,train,eat,8F17S_0.00.mp4,Charades,0.00,11.007
+11678,train,eat,80E3X_19.00.mp4,Charades,19.00,11.36
+11683,train,eat,THW67_11.70.mp4,Charades,11.70,15.0
+11688,train,eat,CN5G4_0.00.mp4,Charades,0.00,28.004
+11690,train,eat,TR0TO_0.00.mp4,Charades,0.00,15.001
+11693,train,eat,82X3Z_17.30.mp4,Charades,17.30,8.0
+11697,train,eat,KQL1P_0.00.mp4,Charades,0.00,31.56
+11701,train,eat,Q42EE_2.50.mp4,Charades,2.50,9.0
+11703,train,eat,GTK8W_26.80.mp4,Charades,26.80,7.013
+11704,train,eat,MERBU_20.80.mp4,Charades,20.80,11.52
+11705,train,eat,QQTQN_15.10.mp4,Charades,15.10,18.92
+11711,train,eat,PMVT7_0.00.mp4,Charades,0.00,29.36
+11717,train,eat,AJ5YQ_11.60.mp4,Charades,11.60,11.88
+11718,train,eat,CA7T0_0.00.mp4,Charades,0.00,28.004
+11721,train,eat,7BL9D_4.20.mp4,Charades,4.20,8.0
+11722,train,eat,BALXZ_1.60.mp4,Charades,1.60,11.0
+11723,train,eat,38NUC_13.10.mp4,Charades,13.10,19.48
+11726,train,eat,IP2EA_0.00.mp4,Charades,0.00,24.01
+11735,train,eat,C61BE_0.00.mp4,Charades,0.00,8.011
+11736,train,eat,59CDL_0.00.mp4,Charades,0.00,32.08
+11737,train,eat,OGA0C_0.00.mp4,Charades,0.00,9.647
+11741,train,eat,ACMHK_0.00.mp4,Charades,0.00,32.106
+11744,train,eat,IS7PL_8.40.mp4,Charades,8.40,9.01
+11749,train,eat,WZVHJ_15.20.mp4,Charades,15.20,9.01
+11753,train,eat,Q9H04_8.90.mp4,Charades,8.90,7.0
+11755,train,eat,H3LUW_3.90.mp4,Charades,3.90,8.0
+11756,train,eat,O283L_0.00.mp4,Charades,0.00,22.013
+11757,train,eat,GFFJM_0.00.mp4,Charades,0.00,27.005
+11763,train,eat,14A2O_0.00.mp4,Charades,0.00,7.013
+11769,train,eat,FLM1T_16.50.mp4,Charades,16.50,7.0
+11770,train,eat,9N76L_23.70.mp4,Charades,23.70,14.002
+11781,train,eat,3IJGQ_0.00.mp4,Charades,0.00,17.021
+11782,train,eat,SNUVF_33.00.mp4,Charades,33.00,4.08
+11784,train,eat,5AFC1_23.80.mp4,Charades,23.80,10.32
+11788,train,eat,B5226_0.00.mp4,Charades,0.00,25.004
+11789,train,eat,432NL_26.60.mp4,Charades,26.60,5.55
+11790,train,eat,A4VK8_14.30.mp4,Charades,14.30,4.12
+11794,train,eat,S673O_24.90.mp4,Charades,24.90,10.008
+11795,train,eat,4C1KY_0.00.mp4,Charades,0.00,21.015
+11797,train,eat,PM9HG_30.50.mp4,Charades,30.50,4.28
+11800,train,eat,E4C1C_0.50.mp4,Charades,0.50,19.018
+11802,train,eat,02SK4_15.40.mp4,Charades,15.40,13.6
+11804,train,eat,1ROX7_0.00.mp4,Charades,0.00,14.002
+11806,train,eat,0WU7S_17.70.mp4,Charades,17.70,15.8
+11808,train,eat,KNN3G_22.70.mp4,Charades,22.70,8.29
+11809,train,eat,1C6P3_0.70.mp4,Charades,0.70,9.01
+11813,train,eat,LEG82_11.00.mp4,Charades,11.00,8.011
+11817,train,eat,T5E2T_37.60.mp4,Charades,37.60,8.0
+11818,train,eat,DCLLS_11.10.mp4,Charades,11.10,18.413
+11819,train,eat,WW4MY_2.00.mp4,Charades,2.00,8.0
+11820,train,eat,6E4JA_0.00.mp4,Charades,0.00,5.01
+11823,train,eat,08EPO_10.10.mp4,Charades,10.10,6.014
+11829,train,eat,HXCGX_0.00.mp4,Charades,0.00,15.001
+11830,train,eat,CUB69_0.00.mp4,Charades,0.00,8.011
+11831,train,eat,21A0W_0.00.mp4,Charades,0.00,31.48
+11832,train,eat,GN4SJ_0.00.mp4,Charades,0.00,7.013
+11834,train,eat,41II2_11.30.mp4,Charades,11.30,7.013
+11836,train,eat,9B93K_1.80.mp4,Charades,1.80,27.0
+11839,train,eat,LZTH6_7.70.mp4,Charades,7.70,5.84
+11840,train,eat,DZV6Z_12.60.mp4,Charades,12.60,20.08
+11841,train,eat,1FGXJ_0.00.mp4,Charades,0.00,15.019
+11842,train,eat,GK15U_27.90.mp4,Charades,27.90,4.853
+11846,train,eat,IBX56_11.90.mp4,Charades,11.90,12.005
+11847,train,eat,MPX3X_0.00.mp4,Charades,0.00,15.001
+11852,train,eat,DFEG2_14.30.mp4,Charades,14.30,6.409
+11860,train,eat,JLX1D_2.60.mp4,Charades,2.60,45.001
+11862,train,eat,04MTP_0.70.mp4,Charades,0.70,31.48
+14865,train,Lying on the floor,6SB75_0.00.mp4,Charades,0.00,31.48
+14869,train,Lying on the floor,NOFSE_17.10.mp4,Charades,17.10,9.72
+14871,train,Lying on the floor,0XRD1_21.50.mp4,Charades,21.50,10.054
+14895,train,Lying on the floor,5DEHA_1.50.mp4,Charades,1.50,14.016
+14901,train,Lying on the floor,WVTVK_0.00.mp4,Charades,0.00,23.76
+14904,train,Lying on the floor,PWJ3J_0.00.mp4,Charades,0.00,14.002
+14907,train,Lying on the floor,FDNWD_14.10.mp4,Charades,14.10,9.815
+14909,train,Lying on the floor,VE5DN_0.00.mp4,Charades,0.00,11.007
+14923,train,Lying on the floor,O8BH6_13.10.mp4,Charades,13.10,17.52
+14944,train,Lying on the floor,WJ33D_0.00.mp4,Charades,0.00,21.015
+14948,train,Lying on the floor,K95WN_4.00.mp4,Charades,4.00,26.68
+14949,train,Lying on the floor,YX3W8_6.30.mp4,Charades,6.30,6.99
+14951,train,Lying on the floor,RVKKS_0.00.mp4,Charades,0.00,15.001
+14958,train,Lying on the floor,RECCV_0.00.mp4,Charades,0.00,34.12
+14960,train,Lying on the floor,K2L7F_14.30.mp4,Charades,14.30,17.2
+14977,train,Lying on the floor,J3ZZH_0.00.mp4,Charades,0.00,3.019
+14993,train,Lying on the floor,ITXRK_2.00.mp4,Charades,2.00,9.0
+15003,train,Lying on the floor,W70PA_1.00.mp4,Charades,1.00,30.44
+15017,train,Lying on the floor,WNW0S_13.20.mp4,Charades,13.20,18.72
+15023,train,Lying on the floor,JFU3J_26.20.mp4,Charades,26.20,7.407
+15030,train,Lying on the floor,PVC93_0.00.mp4,Charades,0.00,30.48
+15034,train,Lying on the floor,5I4UT_2.70.mp4,Charades,2.70,7.0
+15035,train,Lying on the floor,0VQQL_0.00.mp4,Charades,0.00,14.002
+15038,train,Lying on the floor,4N06O_0.00.mp4,Charades,0.00,8.011
+15078,train,Lying on the floor,Z1ZUI_0.00.mp4,Charades,0.00,10.008
+15079,train,Lying on the floor,NEE6E_0.00.mp4,Charades,0.00,20.016
+15088,train,Lying on the floor,QMTF2_0.00.mp4,Charades,0.00,13.004
+15094,train,Lying on the floor,82XWA_0.00.mp4,Charades,0.00,22.013
+15096,train,Lying on the floor,U9SH3_9.60.mp4,Charades,9.60,21.804
+15105,train,Lying on the floor,6CGRP_25.10.mp4,Charades,25.10,7.013
+15114,train,Lying on the floor,0ISSH_0.00.mp4,Charades,0.00,30.68
+15115,train,Lying on the floor,I8QJN_0.00.mp4,Charades,0.00,12.005
+15153,train,Lying on the floor,BRLC0_0.00.mp4,Charades,0.00,28.444
+15188,train,Lying on the floor,2I871_0.00.mp4,Charades,0.00,15.001
+15209,train,Lying on the floor,QC9M1_12.10.mp4,Charades,12.10,21.015
+15215,train,Lying on the floor,JVV45_14.40.mp4,Charades,14.40,12.702
+15235,train,Lying on the floor,WUL5P_21.00.mp4,Charades,21.00,11.44
+15236,train,Lying on the floor,EWCV4_0.00.mp4,Charades,0.00,7.013
+15283,train,Lying on the floor,GBZAK_24.40.mp4,Charades,24.40,4.366
+15288,train,Lying on the floor,HG8G1_0.00.mp4,Charades,0.00,36.92
+15294,train,Lying on the floor,KN97F_0.00.mp4,Charades,0.00,33.6
+15303,train,Lying on the floor,YG2EP_4.50.mp4,Charades,4.50,32.322
+15305,train,Lying on the floor,3U1SS_0.00.mp4,Charades,0.00,15.001
+15306,train,Lying on the floor,BD0S7_0.00.mp4,Charades,0.00,5.016
+15314,train,Lying on the floor,1BPX5_1.20.mp4,Charades,1.20,24.0
+15319,train,Lying on the floor,KUBPN_0.00.mp4,Charades,0.00,30.72
+15326,train,Lying on the floor,E6IL3_0.00.mp4,Charades,0.00,6.014
+15338,train,Lying on the floor,K5CRM_7.10.mp4,Charades,7.10,10.68
+15344,train,Lying on the floor,YY5D1_0.00.mp4,Charades,0.00,30.28
+15346,train,Lying on the floor,2ZTNY_9.00.mp4,Charades,9.00,17.2
+15350,train,Lying on the floor,JAAVR_0.00.mp4,Charades,0.00,6.014
+15353,train,Lying on the floor,WNW0S_29.70.mp4,Charades,29.70,2.72
+15371,train,Lying on the floor,4VODV_0.00.mp4,Charades,0.00,11.007
+15375,train,Lying on the floor,01O27_39.00.mp4,Charades,39.00,7.16
+15378,train,Lying on the floor,V8LFC_14.40.mp4,Charades,14.40,16.32
+15383,train,Lying on the floor,MTUR3_10.80.mp4,Charades,10.80,39.32
+15387,train,Lying on the floor,B3RHF_0.00.mp4,Charades,0.00,24.543
+15408,train,Lying on the floor,FVTEU_13.30.mp4,Charades,13.30,28.004
+15412,train,Lying on the floor,O2DXE_0.00.mp4,Charades,0.00,19.088
+15419,train,Lying on the floor,KZPBC_14.20.mp4,Charades,14.20,25.56
+15423,train,Lying on the floor,1XFP6_27.40.mp4,Charades,27.40,3.52
+15426,train,Lying on the floor,AIT3V_0.00.mp4,Charades,0.00,18.019
+15427,train,Lying on the floor,9IO0Y_6.50.mp4,Charades,6.50,12.005
+15431,train,Lying on the floor,9JIHR_0.00.mp4,Charades,0.00,17.021
+15439,train,Lying on the floor,1YTD7_0.00.mp4,Charades,0.00,27.009
+15441,train,Lying on the floor,IB987_0.00.mp4,Charades,0.00,31.139
+15442,train,Lying on the floor,W8ZTH_0.00.mp4,Charades,0.00,17.02
+15464,train,Lying on the floor,CRW0G_11.50.mp4,Charades,11.50,16.045
+15477,train,Lying on the floor,SC3ZS_0.00.mp4,Charades,0.00,31.12
+15487,train,Lying on the floor,L2ZZB_22.90.mp4,Charades,22.90,14.4
+15490,train,Lying on the floor,PHH49_7.30.mp4,Charades,7.30,13.05
+15491,train,Lying on the floor,7ZCXJ_0.00.mp4,Charades,0.00,10.008
+15507,train,Lying on the floor,EOA7I_0.00.mp4,Charades,0.00,18.019
+15514,train,Lying on the floor,6R6RS_0.00.mp4,Charades,0.00,24.01
+15517,train,Lying on the floor,HI81L_0.00.mp4,Charades,0.00,35.573
+15568,train,Lying on the floor,KX7FC_0.00.mp4,Charades,0.00,32.001
+15579,train,Lying on the floor,ETQYM_0.00.mp4,Charades,0.00,21.015
+15581,train,Lying on the floor,LC1NU_0.00.mp4,Charades,0.00,18.019
+15611,train,Lying on the floor,L071S_1.70.mp4,Charades,1.70,23.72
+15614,train,Lying on the floor,YQCYJ_27.60.mp4,Charades,27.60,7.84
+15629,train,Lying on the floor,A0ZW3_0.00.mp4,Charades,0.00,13.004
+15636,train,Lying on the floor,QWZV5_0.00.mp4,Charades,0.00,29.582
+15637,train,Lying on the floor,7DZY6_0.00.mp4,Charades,0.00,9.01
+15638,train,Lying on the floor,W3I8W_7.20.mp4,Charades,7.20,9.01
+15649,train,Lying on the floor,8030U_0.00.mp4,Charades,0.00,21.015
+15662,train,Lying on the floor,G11YN_0.00.mp4,Charades,0.00,30.92
+15676,train,Lying on the floor,7AH3L_9.70.mp4,Charades,9.70,15.001
+15678,train,Lying on the floor,QRZK5_0.00.mp4,Charades,0.00,36.015
+15693,train,Lying on the floor,3YVPG_32.00.mp4,Charades,32.00,7.0
+15694,train,Lying on the floor,MA1ON_1.00.mp4,Charades,1.00,3.414
+15699,train,Lying on the floor,ZKC7M_20.80.mp4,Charades,20.80,8.0
+15707,train,Lying on the floor,X8A6H_0.00.mp4,Charades,0.00,6.014
+15714,train,Lying on the floor,VA7IT_0.00.mp4,Charades,0.00,18.019
+15715,train,Lying on the floor,8VSV6_0.00.mp4,Charades,0.00,11.007
+15724,train,Lying on the floor,6EHR7_4.60.mp4,Charades,4.60,14.002
+15749,train,Lying on the floor,R0207_0.00.mp4,Charades,0.00,33.28
+15750,train,Lying on the floor,MGDO2_0.00.mp4,Charades,0.00,19.018
+15759,train,Lying on the floor,Y716N_0.00.mp4,Charades,0.00,16.022
+15767,train,Lying on the floor,06R14_0.00.mp4,Charades,0.00,20.8
+15798,train,Lying on the floor,HOIKF_0.00.mp4,Charades,0.00,23.011
+15801,train,Lying on the floor,ET224_8.70.mp4,Charades,8.70,39.01
+15805,train,Lying on the floor,3K2QE_18.20.mp4,Charades,18.20,12.68
+15823,train,Lying on the floor,EHTB6_0.00.mp4,Charades,0.00,41.12
+15829,train,Lying on the floor,RNCN8_22.30.mp4,Charades,22.30,7.5
+15832,train,Lying on the floor,OUAIS_0.00.mp4,Charades,0.00,14.002
+15847,train,Lying on the floor,HONL7_0.00.mp4,Charades,0.00,31.696
+15850,train,Lying on the floor,VFTRG_0.00.mp4,Charades,0.00,15.001
+15862,train,Lying on the floor,DQ0EE_0.00.mp4,Charades,0.00,17.021
+15864,train,Lying on the floor,2Z0LU_0.00.mp4,Charades,0.00,11.007
+15868,train,Lying on the floor,DP8U3_15.80.mp4,Charades,15.80,10.48
+15874,train,Lying on the floor,CR5G1_11.80.mp4,Charades,11.80,21.177
+15887,train,Lying on the floor,QOWXK_5.90.mp4,Charades,5.90,16.0
+15918,train,Lying on the floor,Q9BRQ_0.00.mp4,Charades,0.00,14.002
+15930,train,Lying on the floor,XWQ3Z_0.00.mp4,Charades,0.00,17.021
+15933,train,Lying on the floor,XRLG6_0.00.mp4,Charades,0.00,31.0
+15952,train,Lying on the floor,N9J83_0.00.mp4,Charades,0.00,31.114
+15976,train,Lying on the floor,3OQ8M_8.90.mp4,Charades,8.90,16.0
+15979,train,Lying on the floor,W6QUC_0.00.mp4,Charades,0.00,31.069
+15991,train,Lying on the floor,U2SJH_0.00.mp4,Charades,0.00,14.002
+15996,train,Lying on the floor,3OQ8M_9.50.mp4,Charades,9.50,7.013
+16005,train,Lying on the floor,YBW3D_5.10.mp4,Charades,5.10,15.001
+16013,train,Lying on the floor,YS9RE_0.00.mp4,Charades,0.00,8.011
+16021,train,Lying on the floor,HFTEO_0.00.mp4,Charades,0.00,22.013
+16024,train,Lying on the floor,1G90H_0.00.mp4,Charades,0.00,31.08
+16034,train,Lying on the floor,KELYK_0.00.mp4,Charades,0.00,11.007
+16041,train,Lying on the floor,A4N6Z_0.00.mp4,Charades,0.00,17.021
+16941,train,cook,8QL4N_0.00.mp4,Charades,0.00,13.004
+16957,train,cook,D9AR5_0.00.mp4,Charades,0.00,28.004
+16964,train,cook,IIJ5I_15.50.mp4,Charades,15.50,13.36
+16977,train,cook,82ZNR_0.00.mp4,Charades,0.00,11.007
+16988,train,cook,2K755_0.00.mp4,Charades,0.00,4.018
+17006,train,cook,10ND1_30.10.mp4,Charades,30.10,3.924
+17010,train,cook,Q1L24_0.00.mp4,Charades,0.00,12.011
+17026,train,cook,75GKF_0.00.mp4,Charades,0.00,21.015
+17041,train,cook,EF2YJ_10.00.mp4,Charades,10.00,16.0
+17042,train,cook,UQW95_3.30.mp4,Charades,3.30,17.0
+17049,train,cook,0M1PW_0.00.mp4,Charades,0.00,19.551
+17078,train,cook,HB9LP_0.00.mp4,Charades,0.00,24.01
+17082,train,cook,D7MHV_0.00.mp4,Charades,0.00,18.006
+17112,train,cook,I7MEA_0.00.mp4,Charades,0.00,25.611
+17127,train,cook,DD5SD_0.00.mp4,Charades,0.00,14.002
+17133,train,cook,JOYAJ_0.00.mp4,Charades,0.00,9.01
+17147,train,cook,8X7D6_12.20.mp4,Charades,12.20,11.007
+17151,train,cook,GQ0H2_0.00.mp4,Charades,0.00,22.017
+17159,train,cook,2MTYU_0.90.mp4,Charades,0.90,23.011
+17161,train,cook,UNKXB_0.00.mp4,Charades,0.00,23.87
+17168,train,cook,1SJQX_13.20.mp4,Charades,13.20,17.48
+17175,train,cook,1SKLG_0.00.mp4,Charades,0.00,30.48
+17182,train,cook,ZFT87_0.00.mp4,Charades,0.00,17.021
+17185,train,cook,CXSYS_13.00.mp4,Charades,13.00,10.449
+17190,train,cook,02XLP_0.00.mp4,Charades,0.00,18.019
+17195,train,cook,IUXP8_16.10.mp4,Charades,16.10,12.76
+17199,train,cook,8APDH_0.00.mp4,Charades,0.00,14.002
+17200,train,cook,94ICP_0.00.mp4,Charades,0.00,8.011
+17201,train,cook,75AX5_2.20.mp4,Charades,2.20,11.0
+17206,train,cook,8PSXZ_0.00.mp4,Charades,0.00,32.392
+17217,train,cook,330ZE_13.00.mp4,Charades,13.00,15.255
+17221,train,cook,2PREF_1.90.mp4,Charades,1.90,9.0
+17224,train,cook,Q71PE_4.90.mp4,Charades,4.90,27.214
+17225,train,cook,R979C_0.00.mp4,Charades,0.00,28.142
+17231,train,cook,75AX5_11.50.mp4,Charades,11.50,14.002
+17237,train,cook,RO429_9.30.mp4,Charades,9.30,22.082
+17248,train,cook,G8YWY_0.00.mp4,Charades,0.00,14.002
+17250,train,cook,WGM7C_22.30.mp4,Charades,22.30,4.993
+17267,train,cook,ZFQNZ_14.00.mp4,Charades,14.00,10.008
+17268,train,cook,WPNEM_0.00.mp4,Charades,0.00,21.014
+17280,train,cook,6RQHP_3.10.mp4,Charades,3.10,8.987
+17288,train,cook,JUF24_0.00.mp4,Charades,0.00,37.16
+17290,train,cook,IO5UK_2.30.mp4,Charades,2.30,19.993
+17293,train,cook,D23WM_0.00.mp4,Charades,0.00,30.8
+17296,train,cook,RKCKK_0.00.mp4,Charades,0.00,30.2
+17297,train,cook,UFQK1_0.00.mp4,Charades,0.00,9.01
+17300,train,cook,R9382_0.00.mp4,Charades,0.00,27.68
+17306,train,cook,MV9N4_0.00.mp4,Charades,0.00,29.08
+17308,train,cook,QLOW7_0.00.mp4,Charades,0.00,31.48
+17311,train,cook,R0M34_0.10.mp4,Charades,0.10,16.022
+17312,train,cook,NE37I_0.00.mp4,Charades,0.00,18.019
+17323,train,cook,4JXAK_0.30.mp4,Charades,0.30,13.004
+17324,train,cook,WBBTU_13.10.mp4,Charades,13.10,18.24
+17331,train,cook,XNXW6_4.50.mp4,Charades,4.50,10.0
+17332,train,cook,WCY52_2.10.mp4,Charades,2.10,18.0
+17334,train,cook,W28C2_0.00.mp4,Charades,0.00,12.005
+17337,train,cook,493WS_0.00.mp4,Charades,0.00,12.005
+17338,train,cook,3ZC4Y_0.00.mp4,Charades,0.00,26.286
+17341,train,cook,H5ZG9_12.90.mp4,Charades,12.90,18.72
+17346,train,cook,46GP8_0.00.mp4,Charades,0.00,13.004
+17352,train,cook,Z1VB4_25.50.mp4,Charades,25.50,20.0
+17355,train,cook,DFJ3N_0.00.mp4,Charades,0.00,29.68
+17362,train,cook,8BCI8_0.00.mp4,Charades,0.00,11.007
+17366,train,cook,UDGP2_25.80.mp4,Charades,25.80,6.208
+17369,train,cook,G81JB_3.70.mp4,Charades,3.70,9.0
+17374,train,cook,4C5S6_0.00.mp4,Charades,0.00,23.011
+17382,train,cook,Y5826_0.00.mp4,Charades,0.00,5.016
+17391,train,cook,CI7PQ_0.00.mp4,Charades,0.00,33.56
+17398,train,cook,Q57HC_0.30.mp4,Charades,0.30,34.018
+17404,train,cook,1YDCG_5.30.mp4,Charades,5.30,21.0
+17408,train,cook,4HFN2_27.50.mp4,Charades,27.50,9.92
+17411,train,cook,P76D1_0.00.mp4,Charades,0.00,20.011
+17418,train,cook,UN1PD_0.00.mp4,Charades,0.00,17.021
+17419,train,cook,OCVY4_5.10.mp4,Charades,5.10,11.007
+17421,train,cook,BI4PK_15.10.mp4,Charades,15.10,5.805
+17433,train,cook,DT02O_0.00.mp4,Charades,0.00,5.043
+17434,train,cook,LR6RZ_7.40.mp4,Charades,7.40,22.895
+17446,train,cook,CWM1T_0.00.mp4,Charades,0.00,12.005
+17459,train,cook,R00L7_0.00.mp4,Charades,0.00,30.28
+17463,train,cook,Y5826_2.70.mp4,Charades,2.70,26.0
+17482,train,cook,K0Z9V_0.00.mp4,Charades,0.00,6.014
+17483,train,cook,G3OUM_4.90.mp4,Charades,4.90,28.04
+17486,train,cook,XSZ4H_0.00.mp4,Charades,0.00,19.009
+17488,train,cook,D9EDE_13.00.mp4,Charades,13.00,20.72
+17498,train,cook,GAO6V_12.70.mp4,Charades,12.70,17.36
+17502,train,cook,7XJLH_1.30.mp4,Charades,1.30,19.0
+17504,train,cook,LQGMM_1.70.mp4,Charades,1.70,56.0
+17521,train,cook,0BLSL_0.00.mp4,Charades,0.00,9.01
+17522,train,cook,CVX9F_2.50.mp4,Charades,2.50,7.0
+17525,train,cook,NSF4N_24.20.mp4,Charades,24.20,11.84
+17531,train,cook,L3JDK_0.00.mp4,Charades,0.00,31.091
+17543,train,cook,1333C_13.30.mp4,Charades,13.30,14.002
+17545,train,cook,A0T30_12.00.mp4,Charades,12.00,10.008
+17546,train,cook,IJNBL_0.30.mp4,Charades,0.30,16.022
+17553,train,cook,9O0HH_32.40.mp4,Charades,32.40,4.48
+17560,train,cook,NR9L2_0.00.mp4,Charades,0.00,21.015
+17567,train,cook,XV8CH_0.00.mp4,Charades,0.00,13.004
+17580,train,cook,GH3D1_2.30.mp4,Charades,2.30,10.0
+17581,train,cook,CSHUE_0.00.mp4,Charades,0.00,8.011
+17584,train,cook,EZCPC_3.70.mp4,Charades,3.70,32.8
+17589,train,cook,INKPE_1.50.mp4,Charades,1.50,8.0
+17590,train,cook,60W9B_10.20.mp4,Charades,10.20,10.2
+17593,train,cook,UQW95_1.40.mp4,Charades,1.40,11.0
+17596,train,cook,J8KPE_15.70.mp4,Charades,15.70,24.76
+17602,train,cook,BEC09_15.80.mp4,Charades,15.80,11.319
+17604,train,cook,HHZUI_0.00.mp4,Charades,0.00,27.005
+17609,train,cook,6RPUS_0.00.mp4,Charades,0.00,12.005
+17616,train,cook,HB4AB_0.00.mp4,Charades,0.00,23.569
+17631,train,cook,UB3KO_4.20.mp4,Charades,4.20,8.0
+17644,train,cook,W495O_16.80.mp4,Charades,16.80,15.08
+17661,train,cook,3FEYY_13.00.mp4,Charades,13.00,13.004
+17682,train,cook,DA7E9_1.20.mp4,Charades,1.20,13.0
+17688,train,cook,QRWQ3_2.10.mp4,Charades,2.10,26.0
+17740,train,cook,08Y62_0.00.mp4,Charades,0.00,30.0
+17743,train,cook,X8XQE_12.80.mp4,Charades,12.80,18.0
+17749,train,cook,W8WRK_0.00.mp4,Charades,0.00,10.008
+17751,train,cook,ZL7E9_0.00.mp4,Charades,0.00,16.789
+17753,train,cook,OOCOF_0.00.mp4,Charades,0.00,29.844
+17754,train,cook,884C0_11.50.mp4,Charades,11.50,19.48
+17760,train,cook,Y0CA0_17.20.mp4,Charades,17.20,12.0
+17761,train,cook,QJPA0_0.00.mp4,Charades,0.00,30.56
+17780,train,cook,MDUG6_1.20.mp4,Charades,1.20,38.0
+17805,train,cook,KT3MJ_22.80.mp4,Charades,22.80,10.6
+17808,train,cook,UMT5R_0.00.mp4,Charades,0.00,29.8
+17828,train,cook,YUCU2_0.00.mp4,Charades,0.00,10.008
+17855,train,cook,Q4UO4_0.00.mp4,Charades,0.00,9.01
+17856,train,cook,3NE5P_0.00.mp4,Charades,0.00,10.008
+17857,train,cook,TM9I6_0.00.mp4,Charades,0.00,25.008
+17899,train,cook,K90LN_0.00.mp4,Charades,0.00,28.212
+17912,train,cook,3EYLH_29.00.mp4,Charades,29.00,8.011
+17915,train,cook,K197X_0.00.mp4,Charades,0.00,29.094
+17928,train,cook,EGY7O_27.50.mp4,Charades,27.50,12.005
+17929,train,cook,NZX0U_3.90.mp4,Charades,3.90,11.0
+17938,train,cook,M1B7N_1.30.mp4,Charades,1.30,14.0
+17944,train,cook,RLA7N_5.00.mp4,Charades,5.00,9.0
+17948,train,cook,293L4_0.00.mp4,Charades,0.00,20.016
+17967,train,cook,JIDHM_0.00.mp4,Charades,0.00,33.813
+17970,train,cook,88LYX_0.00.mp4,Charades,0.00,9.01
+17973,train,cook,5S2ZU_0.00.mp4,Charades,0.00,19.018
+17975,train,cook,X226B_0.00.mp4,Charades,0.00,10.008
+17976,train,cook,ZAJYX_0.00.mp4,Charades,0.00,12.005
+17981,train,cook,QS0AZ_0.00.mp4,Charades,0.00,15.001
+17998,train,cook,JCGWC_4.50.mp4,Charades,4.50,20.34
+18002,train,cook,ON2VH_0.00.mp4,Charades,0.00,21.015
+18003,train,cook,1KJI0_0.00.mp4,Charades,0.00,10.008
+18005,train,cook,3EYLH_26.80.mp4,Charades,26.80,27.005
+18017,train,cook,97NNW_0.00.mp4,Charades,0.00,15.001
+18020,train,cook,UR6CU_0.00.mp4,Charades,0.00,13.004
+18056,train,cook,SKI92_0.00.mp4,Charades,0.00,27.24
+18084,train,cook,OWZCZ_8.40.mp4,Charades,8.40,15.001
+18107,train,cook,YBP5F_2.50.mp4,Charades,2.50,25.28
+18123,train,cook,QWHFE_0.00.mp4,Charades,0.00,17.021
+18129,train,cook,VTICD_0.00.mp4,Charades,0.00,13.004
+18130,train,cook,DUEEE_0.00.mp4,Charades,0.00,30.419
+18143,train,cook,2O6RB_14.80.mp4,Charades,14.80,20.016
+18156,train,cook,7ZTGM_1.60.mp4,Charades,1.60,7.0
+18160,train,cook,6E6GF_5.10.mp4,Charades,5.10,21.0
+18171,train,cook,3GNH7_0.00.mp4,Charades,0.00,15.604
+18172,train,cook,LFPLP_0.00.mp4,Charades,0.00,8.011
+18180,train,cook,YE991_0.00.mp4,Charades,0.00,22.017
+18187,train,cook,BPZE3_0.00.mp4,Charades,0.00,35.271
+18191,train,cook,OJIEC_0.40.mp4,Charades,0.40,10.008
+18201,train,cook,WJ13E_0.00.mp4,Charades,0.00,33.019
+18205,train,cook,AVSN8_22.00.mp4,Charades,22.00,8.84
+18208,train,cook,8ZF5S_11.10.mp4,Charades,11.10,19.0
+18211,train,cook,0BXRP_19.40.mp4,Charades,19.40,8.591
+18213,train,cook,FTETB_9.70.mp4,Charades,9.70,20.96
+18218,train,cook,U7Z37_6.40.mp4,Charades,6.40,23.337
+18220,train,cook,EBCTL_0.00.mp4,Charades,0.00,12.005
+18229,train,cook,4CAHN_0.00.mp4,Charades,0.00,28.491
+18247,train,cook,6UMSJ_8.00.mp4,Charades,8.00,30.512
+18256,train,cook,LVGX3_0.00.mp4,Charades,0.00,8.011
+18261,train,cook,8FH96_0.00.mp4,Charades,0.00,11.007
+18268,train,cook,3GXB7_0.00.mp4,Charades,0.00,21.015
+18269,train,cook,9I034_0.00.mp4,Charades,0.00,26.007
+18277,train,cook,KZK6W_8.70.mp4,Charades,8.70,16.0
+18283,train,cook,3IRHH_0.00.mp4,Charades,0.00,33.019
+18289,train,cook,7R8ZU_22.10.mp4,Charades,22.10,10.38
+18290,train,cook,Y0CA0_15.60.mp4,Charades,15.60,8.011
+18298,train,cook,VTYXW_39.30.mp4,Charades,39.30,27.005
+18301,train,cook,PW16K_0.00.mp4,Charades,0.00,23.011
+18313,train,cook,OCSJP_9.70.mp4,Charades,9.70,12.005
+18314,train,cook,KS5VD_0.00.mp4,Charades,0.00,18.019
+18320,train,cook,BRE3P_10.90.mp4,Charades,10.90,14.002
+18322,train,cook,GL7ER_0.00.mp4,Charades,0.00,34.368
+18338,train,cook,06EDS_23.90.mp4,Charades,23.90,12.56
+18358,train,cook,T28D7_0.00.mp4,Charades,0.00,32.392
+18384,train,cook,EMV0A_0.00.mp4,Charades,0.00,8.0
+18392,train,cook,L8Y8D_0.00.mp4,Charades,0.00,30.001
+18400,train,cook,8Q0EY_0.00.mp4,Charades,0.00,30.001
+18405,train,cook,B9XZX_0.00.mp4,Charades,0.00,5.016
+18418,train,cook,19BHU_2.10.mp4,Charades,2.10,27.098
+18431,train,cook,XLH1M_0.00.mp4,Charades,0.00,15.001
+18437,train,cook,UB3KO_1.00.mp4,Charades,1.00,8.0
+18441,train,cook,YTBQM_4.10.mp4,Charades,4.10,23.0
+18443,train,cook,6MCD9_8.60.mp4,Charades,8.60,14.049
+18459,train,cook,9HIE0_0.00.mp4,Charades,0.00,9.01
+18463,train,cook,TF95Y_0.00.mp4,Charades,0.00,15.001
+18475,train,cook,55NNF_2.60.mp4,Charades,2.60,15.999
+18485,train,cook,OAHDH_0.00.mp4,Charades,0.00,18.019
+18486,train,cook,6G96Q_0.00.mp4,Charades,0.00,23.011
+18508,train,cook,XLR4B_2.30.mp4,Charades,2.30,12.0
+18509,train,cook,T7T0S_0.00.mp4,Charades,0.00,14.002
+18512,train,cook,3GA59_2.60.mp4,Charades,2.60,19.008
+18528,train,cook,ZATTZ_19.20.mp4,Charades,19.20,14.582
+18533,train,cook,CX5ZM_16.00.mp4,Charades,16.00,8.987
+18541,train,cook,4F76V_3.10.mp4,Charades,3.10,8.0
+18546,train,cook,9335E_23.80.mp4,Charades,23.80,13.004
+18550,train,cook,UPJWV_9.70.mp4,Charades,9.70,11.007
+18554,train,cook,JJ7M6_0.00.mp4,Charades,0.00,17.021
+18556,train,cook,G3OUM_3.40.mp4,Charades,3.40,15.001
+18559,train,cook,K8ZIK_22.10.mp4,Charades,22.10,7.44
+18565,train,cook,WCY52_9.30.mp4,Charades,9.30,8.011
+18572,train,cook,83V0A_0.00.mp4,Charades,0.00,7.013
+18574,train,cook,0WV3L_0.00.mp4,Charades,0.00,22.013
+18585,train,cook,HNPC8_9.80.mp4,Charades,9.80,16.12
+18590,train,cook,119W9_15.00.mp4,Charades,15.00,10.124
+18591,train,cook,2F7AQ_11.80.mp4,Charades,11.80,19.72
+18599,train,cook,KZK6W_14.70.mp4,Charades,14.70,21.502
+18607,train,cook,OCSJP_10.60.mp4,Charades,10.60,28.004
+18620,train,cook,K9KDK_5.30.mp4,Charades,5.30,24.0
+18625,train,cook,GHJ8Z_2.60.mp4,Charades,2.60,19.0
+18642,train,cook,687WB_10.80.mp4,Charades,10.80,10.008
+18646,train,cook,9ONDD_0.00.mp4,Charades,0.00,16.022
+18655,train,cook,OM2NF_34.10.mp4,Charades,34.10,10.08
+18658,train,cook,QWZV5_3.30.mp4,Charades,3.30,26.564
+18662,train,cook,KT3MJ_9.20.mp4,Charades,9.20,23.6
+18663,train,cook,Q3UAN_12.10.mp4,Charades,12.10,13.004
+18671,train,cook,G2QG2_0.00.mp4,Charades,0.00,30.326
+18682,train,cook,N0N4I_0.00.mp4,Charades,0.00,9.01
+18695,train,cook,TKFY2_2.60.mp4,Charades,2.60,29.48
+18701,train,cook,QRWQ3_19.10.mp4,Charades,19.10,10.0
+18705,train,cook,8DGUN_9.20.mp4,Charades,9.20,23.011
+18708,train,cook,BI86J_4.60.mp4,Charades,4.60,16.0
+18712,train,cook,6KJGX_11.70.mp4,Charades,11.70,19.36
+18714,train,cook,S3TZ1_31.90.mp4,Charades,31.90,19.0
+18725,train,cook,622EX_0.00.mp4,Charades,0.00,27.005
+18726,train,cook,FVITB_0.00.mp4,Charades,0.00,32.857
+18736,train,cook,F87KZ_3.00.mp4,Charades,3.00,16.0
+18739,train,cook,OLELC_3.10.mp4,Charades,3.10,8.0
+18743,train,cook,RJ27X_0.00.mp4,Charades,0.00,22.88
+18754,train,cook,BEC09_0.00.mp4,Charades,0.00,16.001
+18756,train,cook,B9XZX_8.60.mp4,Charades,8.60,7.0
+18761,train,cook,GKBX9_0.00.mp4,Charades,0.00,12.005
+18771,train,cook,BZ0YN_27.20.mp4,Charades,27.20,3.48
+18775,train,cook,S2RIQ_0.00.mp4,Charades,0.00,12.051
+18781,train,cook,G537E_1.70.mp4,Charades,1.70,23.0
+18784,train,cook,TPHRR_16.30.mp4,Charades,16.30,20.6
+18786,train,cook,K1M15_3.90.mp4,Charades,3.90,13.004
+18796,train,cook,IJZ4F_6.90.mp4,Charades,6.90,12.52
+18811,train,cook,IBNKL_0.00.mp4,Charades,0.00,8.011
+18821,train,cook,UN6O9_0.00.mp4,Charades,0.00,27.422
+18839,train,cook,C5KNM_0.20.mp4,Charades,0.20,30.001
+18843,train,cook,CD11G_0.00.mp4,Charades,0.00,8.011
+18845,train,cook,9GQRI_0.00.mp4,Charades,0.00,25.008
+18856,train,cook,L80CV_26.10.mp4,Charades,26.10,8.92
+18862,train,cook,MT6C2_10.00.mp4,Charades,10.00,12.4
+18864,train,cook,J6L8A_16.20.mp4,Charades,16.20,12.0
+18872,train,cook,JTUHP_2.90.mp4,Charades,2.90,21.99
+18874,train,cook,4BSR0_3.40.mp4,Charades,3.40,23.88
+18885,train,cook,QPX3S_2.80.mp4,Charades,2.80,10.6
+18888,train,cook,5N7EW_15.50.mp4,Charades,15.50,15.16
+18896,train,cook,P4DL9_8.90.mp4,Charades,8.90,21.0
+19431,test,Lying on bed or sofa,VAIVN_0.00.mp4,Charades,0.00,39.36
+19432,test,Lying on bed or sofa,SJQVM_0.00.mp4,Charades,0.00,11.007
+19433,test,Lying on bed or sofa,VSLQT_0.00.mp4,Charades,0.00,38.684
+19434,test,Lying on bed or sofa,T5E2T_6.30.mp4,Charades,6.30,15.001
+19435,test,Lying on bed or sofa,5OIQ7_0.00.mp4,Charades,0.00,9.01
+19436,test,Lying on bed or sofa,FY9UT_0.00.mp4,Charades,0.00,16.52
+19437,test,Lying on bed or sofa,GHJCC_0.00.mp4,Charades,0.00,25.008
+19438,test,Lying on bed or sofa,D2VU8_7.00.mp4,Charades,7.00,12.64
+19439,test,Lying on bed or sofa,TPJJJ_0.00.mp4,Charades,0.00,30.08
+19440,test,Lying on bed or sofa,2IS9G_11.00.mp4,Charades,11.00,15.0
+19441,test,Lying on bed or sofa,I31V9_2.60.mp4,Charades,2.60,10.12
+19442,test,Lying on bed or sofa,6APUA_14.80.mp4,Charades,14.80,16.8
+19443,test,Lying on bed or sofa,K801K_0.00.mp4,Charades,0.00,32.92
+19444,test,Lying on bed or sofa,IOMVF_0.00.mp4,Charades,0.00,10.008
+19445,test,Lying on bed or sofa,U3VOM_0.00.mp4,Charades,0.00,30.68
+19446,test,Lying on bed or sofa,CXF35_2.90.mp4,Charades,2.90,16.0
+19447,test,Lying on bed or sofa,TX122_0.00.mp4,Charades,0.00,8.011
+19448,test,Lying on bed or sofa,MMTED_0.00.mp4,Charades,0.00,16.022
+19449,test,Lying on bed or sofa,WWPEN_0.00.mp4,Charades,0.00,13.004
+19450,test,Lying on bed or sofa,XZ9C0_0.00.mp4,Charades,0.00,9.002
+19451,test,Lying on bed or sofa,NS216_0.00.mp4,Charades,0.00,13.96
+19452,test,Lying on bed or sofa,XFLQH_0.00.mp4,Charades,0.00,13.004
+19453,test,Lying on bed or sofa,WYYUD_0.00.mp4,Charades,0.00,14.002
+19454,test,Lying on bed or sofa,43OXO_2.60.mp4,Charades,2.60,22.64
+19455,test,Lying on bed or sofa,40F42_0.00.mp4,Charades,0.00,8.011
+19456,test,Lying on bed or sofa,IFFPZ_0.00.mp4,Charades,0.00,18.019
+19457,test,Lying on bed or sofa,5Q0CX_0.00.mp4,Charades,0.00,5.016
+19458,test,Lying on bed or sofa,JYDCI_0.00.mp4,Charades,0.00,30.016
+19459,test,Lying on bed or sofa,U386F_0.00.mp4,Charades,0.00,31.28
+19460,test,Lying on bed or sofa,7L18C_0.00.mp4,Charades,0.00,19.018
+19461,test,Lying on bed or sofa,ZWDVG_0.00.mp4,Charades,0.00,17.021
+19462,test,Lying on bed or sofa,KZ45F_0.00.mp4,Charades,0.00,31.0
+19463,test,Lying on bed or sofa,J95X1_29.10.mp4,Charades,29.10,12.005
+19464,test,Lying on bed or sofa,GXVX8_0.00.mp4,Charades,0.00,30.8
+19465,test,Lying on bed or sofa,R0OI6_5.10.mp4,Charades,5.10,19.0
+19466,test,Lying on bed or sofa,I2DHG_9.10.mp4,Charades,9.10,12.005
+19467,test,Lying on bed or sofa,GXEJB_0.00.mp4,Charades,0.00,30.12
+19468,test,Lying on bed or sofa,D9FR4_5.30.mp4,Charades,5.30,42.005
+19469,test,Lying on bed or sofa,MQ4YR_0.00.mp4,Charades,0.00,16.022
+19470,test,Lying on bed or sofa,6TVXT_0.00.mp4,Charades,0.00,16.022
+20213,test,eat,1YC83_0.00.mp4,Charades,0.00,13.004
+20215,test,eat,URG8B_1.30.mp4,Charades,1.30,9.0
+20216,test,eat,G8V6N_0.00.mp4,Charades,0.00,5.08
+20217,test,eat,C5BMA_14.10.mp4,Charades,14.10,9.01
+20221,test,eat,7EBTI_7.00.mp4,Charades,7.00,19.0
+20223,test,eat,KP88I_16.80.mp4,Charades,16.80,13.0
+20228,test,eat,472EJ_4.00.mp4,Charades,4.00,17.0
+20231,test,eat,EWBOG_11.50.mp4,Charades,11.50,11.007
+20233,test,eat,LCEM0_0.20.mp4,Charades,0.20,13.004
+20234,test,eat,F64IO_0.10.mp4,Charades,0.10,10.008
+20235,test,eat,OUBUX_11.50.mp4,Charades,11.50,20.759
+20236,test,eat,1L376_19.50.mp4,Charades,19.50,7.96
+20237,test,eat,BR8B3_19.90.mp4,Charades,19.90,11.88
+20238,test,eat,F7AIA_3.40.mp4,Charades,3.40,15.6
+20241,test,eat,J4VCR_10.40.mp4,Charades,10.40,12.005
+20243,test,eat,G3A0B_0.00.mp4,Charades,0.00,23.68
+20245,test,eat,DCNQI_0.00.mp4,Charades,0.00,6.014
+20248,test,eat,PN7CX_0.00.mp4,Charades,0.00,16.022
+20251,test,eat,RF4OI_0.30.mp4,Charades,0.30,7.013
+20254,test,eat,0QHR4_3.30.mp4,Charades,3.30,6.0
+20257,test,eat,KPHP5_0.00.mp4,Charades,0.00,25.008
+20258,test,eat,7GPSY_10.70.mp4,Charades,10.70,25.008
+20259,test,eat,PIEHJ_30.90.mp4,Charades,30.90,6.6
+20260,test,eat,14TJT_2.50.mp4,Charades,2.50,8.0
+20262,test,eat,N39RU_0.00.mp4,Charades,0.00,8.011
+20263,test,eat,I9SSV_4.80.mp4,Charades,4.80,7.0
+20267,test,eat,E2EHR_0.00.mp4,Charades,0.00,4.018
+20269,test,eat,OOWJ9_0.00.mp4,Charades,0.00,19.018
+20271,test,eat,NHB5N_0.00.mp4,Charades,0.00,30.88
+20272,test,eat,3CFFJ_6.20.mp4,Charades,6.20,27.423
+20276,test,eat,VMOBC_6.50.mp4,Charades,6.50,16.0
+20277,test,eat,BLBJY_0.00.mp4,Charades,0.00,13.014
+20278,test,eat,XJOJL_7.80.mp4,Charades,7.80,18.0
+20279,test,eat,EPKTX_0.00.mp4,Charades,0.00,22.6
+20282,test,eat,K7HQG_0.60.mp4,Charades,0.60,30.48
+20283,test,eat,A6GZT_2.90.mp4,Charades,2.90,26.355
+20289,test,eat,CC6JC_0.00.mp4,Charades,0.00,5.016
+20291,test,eat,QEY8N_18.50.mp4,Charades,18.50,10.72
+20293,test,eat,B2NAS_4.80.mp4,Charades,4.80,14.002
+20294,test,eat,13AUQ_0.00.mp4,Charades,0.00,20.018
+20295,test,eat,JQLD3_7.10.mp4,Charades,7.10,8.0
+20296,test,eat,YW5C4_18.20.mp4,Charades,18.20,8.0
+20297,test,eat,JXNEN_11.10.mp4,Charades,11.10,14.002
+20303,test,eat,WEYV3_0.00.mp4,Charades,0.00,4.011
+20304,test,eat,QLKSV_23.20.mp4,Charades,23.20,6.0
+20308,test,eat,HZTB1_18.70.mp4,Charades,18.70,10.0
+20309,test,eat,7BT7L_0.00.mp4,Charades,0.00,29.582
+20313,test,eat,983K8_0.00.mp4,Charades,0.00,31.48
+20317,test,eat,27JQL_23.20.mp4,Charades,23.20,7.0
+20319,test,eat,R5O64_22.70.mp4,Charades,22.70,5.68
+20323,test,eat,0GR11_20.80.mp4,Charades,20.80,11.243
+20328,test,eat,IKPR3_0.00.mp4,Charades,0.00,19.28
+20329,test,eat,2GQDN_21.20.mp4,Charades,21.20,9.4
+20330,test,eat,8Y7P5_2.20.mp4,Charades,2.20,26.8
+20331,test,eat,D07V2_6.40.mp4,Charades,6.40,15.001
+20333,test,eat,UBVV7_12.50.mp4,Charades,12.50,14.002
+20336,test,eat,KCEJF_2.70.mp4,Charades,2.70,12.0
+20337,test,eat,FS3SY_0.00.mp4,Charades,0.00,30.72
+20340,test,eat,1H6PS_0.00.mp4,Charades,0.00,7.013
+20346,test,eat,0VOQC_5.80.mp4,Charades,5.80,21.0
+20348,test,eat,883AD_6.30.mp4,Charades,6.30,6.0
+20349,test,eat,LVTRJ_28.90.mp4,Charades,28.90,9.01
+20361,test,eat,RQJWI_0.00.mp4,Charades,0.00,30.84
+20365,test,eat,8E5AD_21.30.mp4,Charades,21.30,11.04
+20368,test,eat,43UDQ_1.30.mp4,Charades,1.30,15.001
+20371,test,eat,JWPS5_0.00.mp4,Charades,0.00,16.022
+20373,test,eat,WPNEM_8.20.mp4,Charades,8.20,11.007
+20375,test,eat,D6D85_19.60.mp4,Charades,19.60,9.0
+20376,test,eat,1L220_73.40.mp4,Charades,73.40,56.007
+20385,test,eat,H5V2Y_0.00.mp4,Charades,0.00,30.56
+20391,test,eat,6JB5R_32.00.mp4,Charades,32.00,114.0
+20392,test,eat,6TJVS_2.20.mp4,Charades,2.20,8.0
+20395,test,eat,HD38O_9.20.mp4,Charades,9.20,19.0
+20396,test,eat,PFOD8_1.00.mp4,Charades,1.00,9.0
+20400,test,eat,GIW6N_6.40.mp4,Charades,6.40,24.0
+20402,test,eat,A8SG6_0.00.mp4,Charades,0.00,22.693
+20406,test,eat,I31V9_0.00.mp4,Charades,0.00,5.016
+20407,test,eat,SHMU7_16.00.mp4,Charades,16.00,15.0
+20408,test,eat,WQWT0_14.70.mp4,Charades,14.70,11.007
+20410,test,eat,1JGRO_6.70.mp4,Charades,6.70,16.0
+20411,test,eat,5MSZP_13.50.mp4,Charades,13.50,8.011
+20412,test,eat,GPSIM_18.40.mp4,Charades,18.40,12.0
+20413,test,eat,O5N93_0.00.mp4,Charades,0.00,28.004
+20414,test,eat,UCD2M_0.00.mp4,Charades,0.00,25.38
+20416,test,eat,EJPO8_2.10.mp4,Charades,2.10,28.08
+20417,test,eat,MD6P2_7.00.mp4,Charades,7.00,6.0
+20418,test,eat,ZZXQF_9.40.mp4,Charades,9.40,8.011
+20422,test,eat,G537E_1.30.mp4,Charades,1.30,16.0
+20425,test,eat,55AH5_5.10.mp4,Charades,5.10,7.0
+20426,test,eat,86810_0.00.mp4,Charades,0.00,30.68
+20842,test,Lying on the floor,CN108_0.00.mp4,Charades,0.00,13.004
+20851,test,Lying on the floor,4PCSC_0.00.mp4,Charades,0.00,18.019
+20858,test,Lying on the floor,Y2NAO_0.00.mp4,Charades,0.00,11.007
+20876,test,Lying on the floor,MNEQ4_0.00.mp4,Charades,0.00,21.015
+20887,test,Lying on the floor,JZ46A_0.00.mp4,Charades,0.00,29.68
+20891,test,Lying on the floor,O5TU5_6.00.mp4,Charades,6.00,15.001
+20921,test,Lying on the floor,1DGC9_0.00.mp4,Charades,0.00,6.014
+20936,test,Lying on the floor,41ZY4_0.00.mp4,Charades,0.00,24.01
+20938,test,Lying on the floor,MR3ON_0.00.mp4,Charades,0.00,15.96
+20943,test,Lying on the floor,XXU6H_1.90.mp4,Charades,1.90,8.987
+20944,test,Lying on the floor,ZIP5P_0.00.mp4,Charades,0.00,30.32
+20945,test,Lying on the floor,YOVS5_0.00.mp4,Charades,0.00,5.016
+20963,test,Lying on the floor,HWYTN_0.00.mp4,Charades,0.00,30.44
+20970,test,Lying on the floor,H6BT7_33.10.mp4,Charades,33.10,21.0
+20973,test,Lying on the floor,BY6ZZ_15.50.mp4,Charades,15.50,11.354
+20981,test,Lying on the floor,B69CF_0.00.mp4,Charades,0.00,11.007
+21070,test,cook,B8IYJ_0.00.mp4,Charades,0.00,13.004
+21078,test,cook,3SDJE_0.00.mp4,Charades,0.00,13.004
+21080,test,cook,16KTS_0.00.mp4,Charades,0.00,23.011
+21086,test,cook,E8C24_5.00.mp4,Charades,5.00,16.0
+21090,test,cook,EN80R_0.00.mp4,Charades,0.00,4.018
+21091,test,cook,XTHL8_11.80.mp4,Charades,11.80,20.88
+21123,test,cook,YMM1Z_0.00.mp4,Charades,0.00,17.021
+21132,test,cook,W495O_13.00.mp4,Charades,13.00,7.013
+21143,test,cook,Y4LT8_17.30.mp4,Charades,17.30,12.96
+21176,test,cook,TLPMD_1.60.mp4,Charades,1.60,16.0
+21190,test,cook,MNS8T_0.00.mp4,Charades,0.00,15.001
+21195,test,cook,LQGMM_39.30.mp4,Charades,39.30,17.0
+21201,test,cook,CVTII_2.50.mp4,Charades,2.50,19.0
+21221,test,cook,HZ3AM_0.00.mp4,Charades,0.00,41.08
+21230,test,cook,EYABM_0.00.mp4,Charades,0.00,32.84
+21232,test,cook,HURN7_12.30.mp4,Charades,12.30,12.005
+21244,test,cook,STAZI_18.80.mp4,Charades,18.80,18.391
+21252,test,cook,BHP7U_0.00.mp4,Charades,0.00,25.659
+21255,test,cook,8YKGP_1.60.mp4,Charades,1.60,25.0
+21274,test,cook,XDS14_0.00.mp4,Charades,0.00,45.001
+21276,test,cook,7EEF0_0.00.mp4,Charades,0.00,23.87
+21295,test,cook,6C65Z_4.90.mp4,Charades,4.90,15.08
+21297,test,cook,1VUDV_0.00.mp4,Charades,0.00,9.01
+21299,test,cook,UTLNI_1.50.mp4,Charades,1.50,8.0
+21305,test,cook,29B3I_18.00.mp4,Charades,18.00,22.32
+21318,test,cook,0G0YF_4.20.mp4,Charades,4.20,25.402
+21327,test,cook,7VHXG_2.20.mp4,Charades,2.20,14.002
+21339,test,cook,JFXG8_9.50.mp4,Charades,9.50,19.087
+21374,test,cook,WIOOY_12.40.mp4,Charades,12.40,15.001
+21378,test,cook,OADOE_0.00.mp4,Charades,0.00,9.01
+21388,test,cook,K224I_0.00.mp4,Charades,0.00,30.489
+21394,test,cook,HSSOZ_0.00.mp4,Charades,0.00,30.001
+21395,test,cook,VVCK0_1.00.mp4,Charades,1.00,8.0
