@@ -1,11 +1,11 @@
-from youtube_videos import process_yt_videos
-from charades import process_charades
-from hmdb import process_hmdb
-from ucf101 import process_ucf101
-from stair import process_stair
-from none_action import process_none_action
-from falldataset import process_fall_dataset
-import utils
+from dataset_processing.youtube_videos import process_yt_videos
+from dataset_processing.charades import process_charades
+from dataset_processing.hmdb import process_hmdb
+from dataset_processing.ucf101 import process_ucf101
+from dataset_processing.stair import process_stair
+from dataset_processing.none_action import process_none_action
+from dataset_processing.falldataset import process_fall_dataset
+from utils import utils
 import argparse
 
 
