@@ -13,7 +13,7 @@ Inside the **res** directory, you wil find several csv documents that include th
 - **[charades_videos.csv](res/charades_videos.csv)**: Information necessary to move and crop the original Charades Videos into the CIAV actions.
 - **[fall_dataset.csv](res/fall_dataset.csv)**: Temporal video cropping and selection from the Fall detection [[6]](#6) dataset to include in it in CIAV.
 
-Note that every clip is spatially cropped to have a 256 pixels as its shortside. In addition, we set the frame-rate of every video to 25 FPS.
+Note that every clip is spatially cropped so that its short side has 256 pixels. In addition, we set the frame-rate of every video to 25 FPS.
 
 ## Download guide
 To download and create the described CIAV dataset you need to clone this repository into your system and run the **main.py** file.
