@@ -8,8 +8,8 @@ Refer to original sources to download those mentioned datasets. However, we prov
 ## Resources
 Inside the **res** directory, you wil find several csv documents that include the necessary information to composed CIAV from the previously described dataset.
 - **[actions_list.csv](res/actions_list.csv)**: List of the 18 actions that this dataset represents with its corresponding ID. Feel free to change the name of the actions. Keep in mind that you need to modify the class name directory with the videos if you do so.
-- **[ciav_videos.csv](res/ciav_videos)**: Include information such as: the name of each clip, the action (class), the split (train, validation or test) and to which dataset does that video belongs to.
-- **[dataset_yt.csv](res/dataset_yt)**: This file provide information to download from Youtube and crop videos.(Eg. Kinetics dataset)
+- **[ciav_videos.csv](res/ciav_videos.csv)**: Include information such as: the name of each clip, the action (class), the split (train, validation or test) and to which dataset does that video belongs to.
+- **[dataset_yt.csv](res/dataset_yt.csv)**: This file provide information to download from Youtube and crop videos.(Eg. Kinetics dataset)
 - **[charades_videos.csv](res/charades_videos.csv)**: Information necessary to move and crop the original Charades Videos into the CIAV actions.
 - **[fall_dataset.csv](res/fall_dataset.csv)**: Temporal video cropping and selection from the Fall detection [[6]](#6) dataset to include in it in CIAV.
 
